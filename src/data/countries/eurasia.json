@@ -1,0 +1,227 @@
+[
+  {
+    "iso3": "RUS",
+    "iso2": "RU",
+    "name": "Russia",
+    "region": "Eurasia",
+    "capital": "Moscow",
+    "capitalCoords": [55.76, 37.62],
+    "population": 144.8,
+    "areaKm2": 17098246,
+    "tags": ["great-power", "nuclear-armed", "p5", "energy-exporter", "sanctioned", "active-conflict"],
+    "summary": "The world's largest country and nuclear arsenal, waging a war of attrition in Ukraine on a war-economy footing. Under extensive Western sanctions, Moscow has pivoted energy exports to China and India and deepened military ties with North Korea and Iran.",
+    "strategicInterests": [
+      "Secure territorial gains in Ukraine and prevent its NATO membership",
+      "Roll back NATO's posture in Eastern Europe",
+      "Circumvent sanctions and redirect energy exports to Asia",
+      "Dominance in the post-Soviet space (Belarus, Central Asia, South Caucasus)",
+      "Develop the Arctic and the Northern Sea Route"
+    ],
+    "economy": {
+      "gdpUsdBn": 2161,
+      "gdpGrowthPct": 4.3,
+      "inflationPct": 8.4,
+      "debtPctGdp": 20,
+      "currency": "Russian ruble (RUB)",
+      "sectors": ["Oil & gas", "Defence industry", "Metals", "Agriculture", "Nuclear technology"],
+      "topExports": ["Crude oil", "Refined petroleum", "Natural gas & LNG", "Coal", "Wheat & fertilisers"]
+    },
+    "military": {
+      "spendUsdBn": 149,
+      "spendPctGdp": 7.1,
+      "activePersonnel": 1134000,
+      "nuclearWarheads": 5459,
+      "capabilities": ["Largest nuclear arsenal", "Hypersonic and intermediate-range missiles (Oreshnik)", "Mass artillery and glide bombs", "Northern Fleet ballistic-missile submarines", "Private and proxy forces in Africa (Africa Corps)"]
+    },
+    "government": {
+      "system": "Federal semi-presidential republic (authoritarian)",
+      "headOfState": "Vladimir Putin",
+      "headOfGovernment": "Mikhail Mishustin",
+      "notes": "Putin re-elected in 2024 for a term running to 2030."
+    },
+    "resources": [
+      { "name": "Natural gas", "note": "Largest proven reserves in the world" },
+      { "name": "Oil", "note": "Second- or third-largest producer; shadow fleet exports" },
+      { "name": "Wheat & fertiliser", "note": "Largest wheat exporter; major potash and nitrogen supplier" },
+      { "name": "Nuclear fuel", "note": "~40% of global uranium enrichment capacity" },
+      { "name": "Metals", "note": "Palladium, nickel, aluminium and titanium" }
+    ]
+  },
+  {
+    "iso3": "BLR",
+    "iso2": "BY",
+    "name": "Belarus",
+    "region": "Eurasia",
+    "capital": "Minsk",
+    "capitalCoords": [53.9, 27.57],
+    "population": 9.1,
+    "areaKm2": 207600,
+    "tags": ["sanctioned"],
+    "summary": "Russia's closest ally, integrated through the Union State and host to Russian tactical nuclear weapons since 2023. Belarus served as a launch pad for the 2022 invasion and is under extensive Western sanctions.",
+    "strategicInterests": [
+      "Regime survival and security guarantees from Moscow",
+      "Russian economic subsidies and market access",
+      "Sanctions relief through selective engagement with the West (prisoner releases)",
+      "Potash export routes"
+    ],
+    "economy": {
+      "gdpUsdBn": 72,
+      "gdpGrowthPct": 4.0,
+      "inflationPct": 5.7,
+      "debtPctGdp": 40,
+      "currency": "Belarusian ruble (BYN)",
+      "sectors": ["Heavy industry", "Oil refining", "Potash", "Agriculture", "IT"],
+      "topExports": ["Refined petroleum", "Potash", "Dairy & meat", "Trucks & tractors", "Timber"]
+    },
+    "military": {
+      "spendUsdBn": 1.2,
+      "spendPctGdp": 1.7,
+      "activePersonnel": 48000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Hosts Russian non-strategic nuclear weapons", "Russian Oreshnik missile deployment announced", "Joint exercises with Russia (Zapad)"]
+    },
+    "government": {
+      "system": "Unitary presidential republic (authoritarian)",
+      "headOfState": "Alexander Lukashenko",
+      "headOfGovernment": "Alexander Turchin",
+      "notes": "Lukashenko has ruled since 1994; seventh term began in 2025."
+    },
+    "resources": [
+      { "name": "Potash", "note": "Belaruskali is among the largest global producers" },
+      { "name": "Refining", "note": "Processes discounted Russian crude" }
+    ]
+  },
+  {
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "name": "Kazakhstan",
+    "region": "Eurasia",
+    "capital": "Astana",
+    "capitalCoords": [51.17, 71.45],
+    "population": 20.6,
+    "areaKm2": 2724900,
+    "tags": ["energy-exporter", "critical-minerals", "middle-power"],
+    "summary": "Central Asia's largest economy and the world's top uranium producer, practising a 'multi-vector' foreign policy between Russia, China, the West and Turkey. It is central to the Trans-Caspian 'Middle Corridor' that bypasses Russia.",
+    "strategicInterests": [
+      "Preserve sovereignty and balance great-power relationships",
+      "Develop the Middle Corridor trade route across the Caspian",
+      "Diversify oil export routes beyond Russia's CPC pipeline",
+      "Critical-mineral partnerships with the EU and US"
+    ],
+    "economy": {
+      "gdpUsdBn": 288,
+      "gdpGrowthPct": 4.8,
+      "inflationPct": 8.7,
+      "debtPctGdp": 24,
+      "currency": "Tenge (KZT)",
+      "sectors": ["Oil & gas", "Mining", "Agriculture", "Transport & logistics"],
+      "topExports": ["Crude oil", "Uranium", "Copper", "Ferroalloys", "Wheat"]
+    },
+    "military": {
+      "spendUsdBn": 2.2,
+      "spendPctGdp": 0.8,
+      "activePersonnel": 39000,
+      "nuclearWarheads": 0,
+      "capabilities": ["CSTO member", "Hosts Russia's Baikonur Cosmodrome (leased)"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Kassym-Jomart Tokayev",
+      "headOfGovernment": "Olzhas Bektenov",
+      "notes": "Tokayev's single seven-year term runs to 2029."
+    },
+    "resources": [
+      { "name": "Uranium", "note": "~40% of world mine production (Kazatomprom)" },
+      { "name": "Oil", "note": "Tengiz and Kashagan super-giant fields" },
+      { "name": "Metals", "note": "Copper, zinc, chromium, rare-earth prospects" }
+    ]
+  },
+  {
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "name": "Azerbaijan",
+    "region": "Eurasia",
+    "capital": "Baku",
+    "capitalCoords": [40.41, 49.87],
+    "population": 10.3,
+    "areaKm2": 86600,
+    "tags": ["energy-exporter"],
+    "summary": "A Caspian energy producer that retook all of Nagorno-Karabakh in 2023. Closely allied with Turkey and a major supplier of oil to Israel, Baku initialled a US-brokered peace framework with Armenia in August 2025.",
+    "strategicInterests": [
+      "Consolidate control over Karabakh and finalise peace with Armenia",
+      "Open a transit route to Nakhchivan (the 'Trump Route' / TRIPP)",
+      "Gas exports to Europe via the Southern Gas Corridor",
+      "Strategic alliance with Turkey"
+    ],
+    "economy": {
+      "gdpUsdBn": 74,
+      "gdpGrowthPct": 4.1,
+      "inflationPct": 2.2,
+      "debtPctGdp": 21,
+      "currency": "Manat (AZN)",
+      "sectors": ["Oil & gas", "Construction", "Agriculture", "Transport"],
+      "topExports": ["Crude oil", "Natural gas", "Refined petroleum", "Fruit & vegetables"]
+    },
+    "military": {
+      "spendUsdBn": 4.8,
+      "spendPctGdp": 6.5,
+      "activePersonnel": 64000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Turkish and Israeli drones and loitering munitions", "Combat-tested in 2020 and 2023 offensives"]
+    },
+    "government": {
+      "system": "Unitary presidential republic (authoritarian)",
+      "headOfState": "Ilham Aliyev",
+      "headOfGovernment": "Ali Asadov",
+      "notes": "The Aliyev family has governed since 1993."
+    },
+    "resources": [
+      { "name": "Caspian oil", "note": "Azeri–Chirag–Gunashli fields via the BTC pipeline" },
+      { "name": "Natural gas", "note": "Shah Deniz supplies Turkey and southern Europe" }
+    ]
+  },
+  {
+    "iso3": "ARM",
+    "iso2": "AM",
+    "name": "Armenia",
+    "region": "Eurasia",
+    "capital": "Yerevan",
+    "capitalCoords": [40.18, 44.51],
+    "population": 3.0,
+    "areaKm2": 29743,
+    "tags": [],
+    "summary": "A landlocked South Caucasus state reorienting away from Russia after Moscow failed to intervene in the 2023 loss of Nagorno-Karabakh. Yerevan has frozen participation in the CSTO and is pursuing peace with Azerbaijan and normalisation with Turkey.",
+    "strategicInterests": [
+      "Sign and implement a peace treaty with Azerbaijan",
+      "Diversify security partners (France, India, US, EU)",
+      "Open borders with Turkey and Azerbaijan",
+      "Preserve sovereignty over the Syunik region"
+    ],
+    "economy": {
+      "gdpUsdBn": 25,
+      "gdpGrowthPct": 5.9,
+      "inflationPct": 0.3,
+      "debtPctGdp": 49,
+      "currency": "Dram (AMD)",
+      "sectors": ["Mining", "IT", "Re-exports", "Agriculture", "Tourism"],
+      "topExports": ["Gold & precious stones", "Copper ore", "Molybdenum", "Brandy", "Tobacco"]
+    },
+    "military": {
+      "spendUsdBn": 1.4,
+      "spendPctGdp": 5.6,
+      "activePersonnel": 42900,
+      "nuclearWarheads": 0,
+      "capabilities": ["Indian artillery and air defence purchases", "French radar and armoured vehicles", "Russian 102nd base at Gyumri"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Vahagn Khachaturyan",
+      "headOfGovernment": "Nikol Pashinyan",
+      "notes": "Parliamentary election due June 2026."
+    },
+    "resources": [
+      { "name": "Copper & molybdenum", "note": "Zangezur mine is the country's largest taxpayer" },
+      { "name": "Transit geography", "note": "Syunik region sits on the proposed Azerbaijan–Nakhchivan route" }
+    ]
+  }
+]

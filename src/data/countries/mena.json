@@ -1,0 +1,542 @@
+[
+  {
+    "iso3": "SAU",
+    "iso2": "SA",
+    "name": "Saudi Arabia",
+    "region": "Middle East & North Africa",
+    "capital": "Riyadh",
+    "capitalCoords": [24.71, 46.68],
+    "population": 33.9,
+    "areaKm2": 2149690,
+    "tags": ["energy-exporter", "middle-power"],
+    "summary": "The world's swing oil producer and de facto leader of OPEC+, pursuing rapid economic diversification under Vision 2030. Riyadh balances security reliance on Washington with deep trade ties to China, and signed a mutual defence pact with Pakistan in 2025.",
+    "strategicInterests": [
+      "Oil-market management through OPEC+",
+      "Vision 2030 diversification and giga-projects",
+      "US security guarantees and advanced arms",
+      "Détente with Iran and an exit from the Yemen war",
+      "Normalisation with Israel conditioned on a path to Palestinian statehood"
+    ],
+    "economy": {
+      "gdpUsdBn": 1085,
+      "gdpGrowthPct": 1.3,
+      "inflationPct": 1.7,
+      "debtPctGdp": 29,
+      "currency": "Saudi riyal (SAR)",
+      "sectors": ["Oil & gas", "Petrochemicals", "Construction", "Mining", "Tourism"],
+      "topExports": ["Crude oil", "Refined petroleum", "Polymers", "Fertilisers", "Aluminium"]
+    },
+    "military": {
+      "spendUsdBn": 80.3,
+      "spendPctGdp": 7.3,
+      "activePersonnel": 257000,
+      "nuclearWarheads": 0,
+      "capabilities": ["F-15SA and Typhoon fleets", "THAAD and Patriot air defence", "Chinese-assisted ballistic missiles"]
+    },
+    "government": {
+      "system": "Unitary absolute monarchy",
+      "headOfState": "King Salman bin Abdulaziz",
+      "headOfGovernment": "Crown Prince Mohammed bin Salman",
+      "notes": "The crown prince serves as prime minister and is the kingdom's de facto ruler."
+    },
+    "resources": [
+      { "name": "Oil", "note": "~267 billion barrels; largest spare production capacity" },
+      { "name": "Public Investment Fund", "note": "Sovereign wealth fund approaching $1 trillion" },
+      { "name": "Phosphate & minerals", "note": "Ma'aden developing mining as the 'third pillar' of industry" }
+    ]
+  },
+  {
+    "iso3": "IRN",
+    "iso2": "IR",
+    "name": "Iran",
+    "region": "Middle East & North Africa",
+    "capital": "Tehran",
+    "capitalCoords": [35.69, 51.39],
+    "population": 91.6,
+    "areaKm2": 1648195,
+    "tags": ["energy-exporter", "sanctioned", "chokepoint"],
+    "summary": "A revolutionary theocracy with major hydrocarbon reserves and influence over the Strait of Hormuz. Its regional 'Axis of Resistance' was badly weakened in 2024–25, and Israeli and US strikes in June 2025 damaged its nuclear programme, which had enriched uranium to 60%.",
+    "strategicInterests": [
+      "Regime security and deterrence against Israel and the US",
+      "Preserve nuclear latency while seeking sanctions relief",
+      "Rebuild the network of regional partners and proxies",
+      "Oil exports to China despite sanctions",
+      "Strategic partnerships with Russia and China"
+    ],
+    "economy": {
+      "gdpUsdBn": 436,
+      "gdpGrowthPct": 3.0,
+      "inflationPct": 32.5,
+      "debtPctGdp": 30,
+      "currency": "Iranian rial (IRR)",
+      "sectors": ["Oil & gas", "Petrochemicals", "Agriculture", "Automotive", "Steel"],
+      "topExports": ["Crude oil", "Petrochemicals", "LPG", "Steel", "Pistachios"]
+    },
+    "military": {
+      "spendUsdBn": 7.9,
+      "spendPctGdp": 2.0,
+      "activePersonnel": 610000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Largest ballistic-missile arsenal in the Middle East", "Shahed one-way attack drones", "IRGC Navy fast-attack craft and mines", "Quds Force proxy network"]
+    },
+    "government": {
+      "system": "Unitary theocratic Islamic republic",
+      "headOfState": "Supreme Leader Ali Khamenei",
+      "headOfGovernment": "President Masoud Pezeshkian",
+      "notes": "Ultimate authority rests with the Supreme Leader; the IRGC holds vast political and economic power."
+    },
+    "resources": [
+      { "name": "Natural gas", "note": "Second-largest reserves (South Pars, shared with Qatar)" },
+      { "name": "Oil", "note": "Top-five proven reserves" },
+      { "name": "Strait of Hormuz", "note": "~20% of global oil passes along its coast" }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "iso2": "IL",
+    "name": "Israel",
+    "region": "Middle East & North Africa",
+    "capital": "Jerusalem",
+    "capitalCoords": [31.77, 35.21],
+    "population": 9.9,
+    "areaKm2": 22072,
+    "tags": ["nuclear-armed", "active-conflict", "middle-power"],
+    "summary": "A technologically advanced military power and undeclared nuclear state that has fought on multiple fronts since the Hamas attack of 7 October 2023 — Gaza, Lebanon, Syria, Yemen and Iran. A US-brokered ceasefire in Gaza took effect in October 2025.",
+    "strategicInterests": [
+      "Prevent Iran from acquiring nuclear weapons",
+      "Security on the Gaza, Lebanese and Syrian fronts",
+      "Preserve the US alliance and qualitative military edge",
+      "Expand normalisation (Abraham Accords, Saudi Arabia)"
+    ],
+    "economy": {
+      "gdpUsdBn": 540,
+      "gdpGrowthPct": 0.9,
+      "inflationPct": 3.1,
+      "debtPctGdp": 68,
+      "currency": "New shekel (ILS)",
+      "sectors": ["High-tech & cyber", "Defence", "Pharmaceuticals", "Diamonds", "Agritech"],
+      "topExports": ["Software & ICT services", "Diamonds", "Integrated circuits", "Defence systems", "Pharmaceuticals"]
+    },
+    "military": {
+      "spendUsdBn": 46.5,
+      "spendPctGdp": 8.8,
+      "activePersonnel": 169500,
+      "nuclearWarheads": 90,
+      "capabilities": ["Multi-layer air defence (Iron Dome, David's Sling, Arrow)", "F-35I fleet", "Advanced intelligence and cyber", "~465,000 reservists"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Isaac Herzog",
+      "headOfGovernment": "Benjamin Netanyahu",
+      "notes": "Right-wing coalition; next Knesset election due by October 2026."
+    },
+    "resources": [
+      { "name": "Offshore gas", "note": "Leviathan and Tamar fields export to Egypt and Jordan" },
+      { "name": "Technology ecosystem", "note": "Highest R&D spending as a share of GDP globally" }
+    ]
+  },
+  {
+    "iso3": "PSE",
+    "iso2": "PS",
+    "name": "Palestine",
+    "region": "Middle East & North Africa",
+    "capital": "Ramallah (administrative); East Jerusalem (claimed)",
+    "capitalCoords": [31.9, 35.2],
+    "population": 5.5,
+    "areaKm2": 6020,
+    "tags": ["active-conflict", "fragile-state"],
+    "summary": "The West Bank and Gaza Strip, recognised as a state by roughly three-quarters of UN members — including the UK, France, Canada and Australia in September 2025. The Gaza war since October 2023 caused catastrophic loss of life and destruction; a ceasefire began in October 2025.",
+    "strategicInterests": [
+      "Statehood and an end to occupation",
+      "Humanitarian relief and reconstruction of Gaza",
+      "Palestinian political unity and governance reform",
+      "Full UN membership (currently a non-member observer state)"
+    ],
+    "economy": {
+      "gdpUsdBn": 13.7,
+      "gdpGrowthPct": -27,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Israeli shekel (ILS), Jordanian dinar (JOD)",
+      "sectors": ["Services", "Agriculture", "Construction", "Public administration"],
+      "topExports": ["Stone & marble", "Olive oil", "Furniture", "Vegetables", "Dates"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["Palestinian Authority security forces (West Bank)", "No conventional military"]
+    },
+    "government": {
+      "system": "Semi-presidential (Palestinian Authority); de facto divided since 2007",
+      "headOfState": "Mahmoud Abbas",
+      "headOfGovernment": "Mohammad Mustafa",
+      "notes": "Hamas governed Gaza from 2007; post-war governance arrangements are contested."
+    },
+    "resources": [
+      { "name": "Gaza Marine gas field", "note": "Discovered 1999; never developed" },
+      { "name": "Agriculture", "note": "Olives and Jordan Valley farmland" }
+    ]
+  },
+  {
+    "iso3": "ARE",
+    "iso2": "AE",
+    "name": "United Arab Emirates",
+    "region": "Middle East & North Africa",
+    "capital": "Abu Dhabi",
+    "capitalCoords": [24.45, 54.38],
+    "population": 11.0,
+    "areaKm2": 83600,
+    "tags": ["energy-exporter", "middle-power"],
+    "summary": "A Gulf trade, finance and logistics hub with outsized geopolitical reach through sovereign wealth, ports and security partnerships stretching across the Red Sea and Africa. It is a leading investor in AI infrastructure.",
+    "strategicInterests": [
+      "Global logistics and ports network (DP World, AD Ports)",
+      "AI and advanced-technology partnerships with the US",
+      "Influence in the Horn of Africa, Red Sea and Libya",
+      "Abraham Accords relationship with Israel"
+    ],
+    "economy": {
+      "gdpUsdBn": 537,
+      "gdpGrowthPct": 3.8,
+      "inflationPct": 1.7,
+      "debtPctGdp": 30,
+      "currency": "UAE dirham (AED)",
+      "sectors": ["Oil & gas", "Trade & logistics", "Finance", "Tourism", "Real estate"],
+      "topExports": ["Crude oil", "Gold (re-exports)", "Refined petroleum", "Aluminium", "Diamonds"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 63000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Rafale F4 order", "THAAD air defence", "Expeditionary experience in Yemen and Libya", "Hosts US and French bases"]
+    },
+    "government": {
+      "system": "Federal elective monarchy",
+      "headOfState": "Mohamed bin Zayed Al Nahyan",
+      "headOfGovernment": "Mohammed bin Rashid Al Maktoum",
+      "notes": "Federation of seven emirates; Abu Dhabi dominates."
+    },
+    "resources": [
+      { "name": "Oil", "note": "~100 billion barrels of reserves" },
+      { "name": "Sovereign wealth", "note": "ADIA, Mubadala and ADQ manage well over $1.5 trillion" },
+      { "name": "Jebel Ali port", "note": "Largest port in the Middle East" }
+    ]
+  },
+  {
+    "iso3": "QAT",
+    "iso2": "QA",
+    "name": "Qatar",
+    "region": "Middle East & North Africa",
+    "capital": "Doha",
+    "capitalCoords": [25.29, 51.53],
+    "population": 3.0,
+    "areaKm2": 11586,
+    "tags": ["energy-exporter"],
+    "summary": "A small, extremely wealthy LNG superpower that punches above its weight as a mediator — in Gaza, Afghanistan, and between Russia and Ukraine. It hosts Al Udeid, the largest US military base in the Middle East.",
+    "strategicInterests": [
+      "Expand LNG capacity and lock in long-term contracts",
+      "Mediation diplomacy as a source of influence and protection",
+      "US security partnership (Major Non-NATO Ally)",
+      "Gas field shared with Iran"
+    ],
+    "economy": {
+      "gdpUsdBn": 218,
+      "gdpGrowthPct": 2.4,
+      "inflationPct": 1.1,
+      "debtPctGdp": 42,
+      "currency": "Qatari riyal (QAR)",
+      "sectors": ["LNG", "Petrochemicals", "Finance", "Aviation", "Construction"],
+      "topExports": ["LNG", "Crude oil", "Refined petroleum", "Polymers", "Fertilisers"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 16500,
+      "nuclearWarheads": 0,
+      "capabilities": ["Rafale, Typhoon and F-15QA fleets", "Hosts Al Udeid Air Base (US CENTCOM forward HQ)", "Turkish military base"]
+    },
+    "government": {
+      "system": "Unitary absolute monarchy",
+      "headOfState": "Emir Tamim bin Hamad Al Thani",
+      "headOfGovernment": "Mohammed bin Abdulrahman Al Thani",
+      "notes": "The prime minister also serves as foreign minister."
+    },
+    "resources": [
+      { "name": "North Field gas", "note": "World's largest non-associated gas field; LNG expansion to 142 mtpa" },
+      { "name": "Qatar Investment Authority", "note": "Sovereign fund of roughly $500 billion" }
+    ]
+  },
+  {
+    "iso3": "EGY",
+    "iso2": "EG",
+    "name": "Egypt",
+    "region": "Middle East & North Africa",
+    "capital": "Cairo",
+    "capitalCoords": [30.04, 31.24],
+    "population": 116.5,
+    "areaKm2": 1002450,
+    "tags": ["chokepoint", "middle-power"],
+    "summary": "The Arab world's most populous country, controlling the Suez Canal and bordering Gaza, Libya and Sudan. A chronic economic crisis has been cushioned by IMF, EU and Gulf financing, while Houthi attacks slashed canal revenues.",
+    "strategicInterests": [
+      "Nile water security against Ethiopia's GERD",
+      "Border security and mediation on Gaza",
+      "Restore Suez Canal traffic and revenue",
+      "Stability in Sudan and Libya",
+      "External financing to avert a debt crisis"
+    ],
+    "economy": {
+      "gdpUsdBn": 389,
+      "gdpGrowthPct": 2.4,
+      "inflationPct": 28.3,
+      "debtPctGdp": 90,
+      "currency": "Egyptian pound (EGP)",
+      "sectors": ["Services", "Tourism", "Suez Canal", "Natural gas", "Agriculture"],
+      "topExports": ["Natural gas & petroleum", "Fertilisers", "Citrus", "Gold", "Textiles"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 438500,
+      "nuclearWarheads": 0,
+      "capabilities": ["Largest army in the Arab world", "Mistral-class helicopter carriers", "Rafale fighters", "~$1.3bn annual US military aid"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic (authoritarian)",
+      "headOfState": "Abdel Fattah el-Sisi",
+      "headOfGovernment": "Mostafa Madbouly",
+      "notes": "Military plays a central political and economic role."
+    },
+    "resources": [
+      { "name": "Suez Canal", "note": "~12% of global trade in normal times" },
+      { "name": "Natural gas", "note": "Zohr field; now a net LNG importer again" },
+      { "name": "Nile", "note": "Provides ~97% of Egypt's freshwater" }
+    ]
+  },
+  {
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "name": "Iraq",
+    "region": "Middle East & North Africa",
+    "capital": "Baghdad",
+    "capitalCoords": [33.31, 44.36],
+    "population": 46.0,
+    "areaKm2": 438317,
+    "tags": ["energy-exporter"],
+    "summary": "OPEC's second-largest producer, balancing between the United States and Iran. Iran-aligned militias in the Popular Mobilisation Forces wield significant power, while the US-led coalition mission is winding down by 2026.",
+    "strategicInterests": [
+      "Balance relations with Washington and Tehran",
+      "Assert state control over armed factions",
+      "Resolve oil-export disputes with the Kurdistan Region",
+      "The Development Road rail and highway link to Turkey",
+      "Water security as upstream dams reduce Tigris–Euphrates flows"
+    ],
+    "economy": {
+      "gdpUsdBn": 265,
+      "gdpGrowthPct": 0.3,
+      "inflationPct": 3.2,
+      "debtPctGdp": 45,
+      "currency": "Iraqi dinar (IQD)",
+      "sectors": ["Oil", "Public sector", "Agriculture", "Construction"],
+      "topExports": ["Crude oil", "Refined petroleum", "Dates"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 193000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Popular Mobilisation Forces (~230,000)", "Kurdish Peshmerga", "US-supplied F-16s and Abrams"]
+    },
+    "government": {
+      "system": "Federal parliamentary republic",
+      "headOfState": "Abdul Latif Rashid",
+      "headOfGovernment": "Mohammed Shia al-Sudani",
+      "notes": "Parliamentary election held November 2025; ethno-sectarian power-sharing."
+    },
+    "resources": [
+      { "name": "Oil", "note": "~145 billion barrels — fifth-largest reserves" },
+      { "name": "Associated gas", "note": "Much still flared; Iraq imports Iranian gas for power" }
+    ]
+  },
+  {
+    "iso3": "SYR",
+    "iso2": "SY",
+    "name": "Syria",
+    "region": "Middle East & North Africa",
+    "capital": "Damascus",
+    "capitalCoords": [33.51, 36.29],
+    "population": 24.7,
+    "areaKm2": 185180,
+    "tags": ["fragile-state"],
+    "summary": "Emerging from 13 years of civil war after the Assad regime fell in December 2024. A transitional government led by Ahmed al-Sharaa is seeking sanctions relief and reconstruction funds, while integrating Kurdish-led forces and managing sectarian violence and Israeli military activity in the south.",
+    "strategicInterests": [
+      "Sanctions relief and reconstruction financing",
+      "National unification, including the Kurdish-led SDF",
+      "Security arrangements with Israel",
+      "Return of refugees and internally displaced people",
+      "Future of Russian bases at Tartus and Hmeimim"
+    ],
+    "economy": {
+      "gdpUsdBn": 21,
+      "gdpGrowthPct": -1.5,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Syrian pound (SYP)",
+      "sectors": ["Agriculture", "Services", "Oil (north-east)", "Informal economy"],
+      "topExports": ["Olive oil", "Phosphates", "Nuts", "Spices", "Textiles"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["New national army formed from former rebel factions", "Much former regime equipment destroyed by Israeli strikes (Dec 2024)"]
+    },
+    "government": {
+      "system": "Transitional presidential government",
+      "headOfState": "Ahmed al-Sharaa",
+      "headOfGovernment": "Ahmed al-Sharaa",
+      "notes": "Interim constitutional declaration adopted in March 2025 for a five-year transition."
+    },
+    "resources": [
+      { "name": "Oil & gas", "note": "North-eastern fields; production far below pre-war levels" },
+      { "name": "Phosphates", "note": "Significant reserves near Palmyra" },
+      { "name": "Mediterranean ports", "note": "Tartus and Latakia" }
+    ]
+  },
+  {
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "name": "Algeria",
+    "region": "Middle East & North Africa",
+    "capital": "Algiers",
+    "capitalCoords": [36.75, 3.06],
+    "population": 46.8,
+    "areaKm2": 2381741,
+    "tags": ["energy-exporter"],
+    "summary": "Africa's largest country and a major pipeline-gas supplier to southern Europe. Algeria backs the Polisario Front on Western Sahara, has severed ties with Morocco, and faces instability on its Sahel borders.",
+    "strategicInterests": [
+      "Support Sahrawi self-determination in Western Sahara",
+      "Gas partnerships with Italy and Spain",
+      "Security on the Sahel frontier (Mali, Niger)",
+      "Non-alignment with ties to Russia and China"
+    ],
+    "economy": {
+      "gdpUsdBn": 264,
+      "gdpGrowthPct": 3.6,
+      "inflationPct": 4.0,
+      "debtPctGdp": 47,
+      "currency": "Algerian dinar (DZD)",
+      "sectors": ["Hydrocarbons", "Public sector", "Agriculture", "Construction"],
+      "topExports": ["Natural gas", "Crude oil", "Refined petroleum", "Fertilisers"]
+    },
+    "military": {
+      "spendUsdBn": 21.8,
+      "spendPctGdp": 8.0,
+      "activePersonnel": 139000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Largest defence budget in Africa", "Russian Su-30 and S-400 systems", "Submarine fleet"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic",
+      "headOfState": "Abdelmadjid Tebboune",
+      "headOfGovernment": "Sifi Ghrieb",
+      "notes": "The military establishment remains highly influential."
+    },
+    "resources": [
+      { "name": "Natural gas", "note": "Pipelines to Italy (TransMed) and Spain (Medgaz)" },
+      { "name": "Iron ore", "note": "Gara Djebilet deposit being developed" },
+      { "name": "Solar potential", "note": "Among the highest irradiation levels globally" }
+    ]
+  },
+  {
+    "iso3": "MAR",
+    "iso2": "MA",
+    "name": "Morocco",
+    "region": "Middle East & North Africa",
+    "capital": "Rabat",
+    "capitalCoords": [34.02, -6.84],
+    "population": 38.1,
+    "areaKm2": 446550,
+    "tags": ["critical-minerals"],
+    "summary": "A stable monarchy with the world's largest phosphate reserves, positioning itself as Africa's gateway for European and Gulf investment. It has won growing international backing for its autonomy plan for Western Sahara.",
+    "strategicInterests": [
+      "International recognition of sovereignty over Western Sahara",
+      "Atlantic Initiative giving Sahel states ocean access",
+      "Industrial hub for autos, batteries and green hydrogen",
+      "Nigeria–Morocco gas pipeline",
+      "Co-hosting the 2030 FIFA World Cup"
+    ],
+    "economy": {
+      "gdpUsdBn": 155,
+      "gdpGrowthPct": 3.2,
+      "inflationPct": 0.9,
+      "debtPctGdp": 69,
+      "currency": "Moroccan dirham (MAD)",
+      "sectors": ["Phosphates & fertilisers", "Automotive", "Aerospace", "Agriculture", "Tourism"],
+      "topExports": ["Cars", "Fertilisers", "Phosphoric acid", "Wiring harnesses", "Fruit & vegetables"]
+    },
+    "military": {
+      "spendUsdBn": 5.5,
+      "spendPctGdp": 3.5,
+      "activePersonnel": 195800,
+      "nuclearWarheads": 0,
+      "capabilities": ["F-16V upgrade", "Israeli and Turkish drones", "Sand berm in Western Sahara"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Mohammed VI",
+      "headOfGovernment": "Aziz Akhannouch",
+      "notes": "The king retains decisive powers over foreign, security and religious affairs."
+    },
+    "resources": [
+      { "name": "Phosphates", "note": "~70% of global reserves (OCP Group)" },
+      { "name": "Tanger Med", "note": "Largest container port in the Mediterranean and Africa" }
+    ]
+  },
+  {
+    "iso3": "YEM",
+    "iso2": "YE",
+    "name": "Yemen",
+    "region": "Middle East & North Africa",
+    "capital": "Sanaa (Houthi-held); Aden (government seat)",
+    "capitalCoords": [15.37, 44.19],
+    "population": 40.6,
+    "areaKm2": 527968,
+    "tags": ["active-conflict", "fragile-state", "chokepoint"],
+    "summary": "Divided since 2014 between the Iran-aligned Houthi movement, which controls the capital and most of the population, and the internationally recognised government. Houthi attacks on Red Sea shipping from late 2023 disrupted global trade through Bab el-Mandeb.",
+    "strategicInterests": [
+      "Houthis: leverage over Red Sea shipping and regional recognition",
+      "Government: restore state authority with Saudi and Emirati support",
+      "Southern Transitional Council: autonomy or independence for the south",
+      "Humanitarian relief for one of the world's worst crises"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": null,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Yemeni rial (YER) — split exchange rates",
+      "sectors": ["Remittances", "Agriculture", "Fisheries", "Oil (halted)"],
+      "topExports": ["Crude oil (suspended since 2022)", "Fish", "Coffee", "Honey"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["Houthi anti-ship missiles, drones and naval drones", "Saudi- and UAE-backed government forces"]
+    },
+    "government": {
+      "system": "Contested — Presidential Leadership Council vs. Houthi administration",
+      "headOfState": "Rashad al-Alimi (Presidential Leadership Council)",
+      "headOfGovernment": "Salem bin Breik",
+      "notes": "The Houthis (Ansar Allah) govern Sanaa and the north-west."
+    },
+    "resources": [
+      { "name": "Bab el-Mandeb", "note": "Strait linking the Red Sea and Gulf of Aden" },
+      { "name": "Oil & gas", "note": "Marib fields and Balhaf LNG plant idle" }
+    ]
+  }
+]

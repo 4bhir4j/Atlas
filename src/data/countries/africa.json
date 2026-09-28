@@ -1,0 +1,316 @@
+[
+  {
+    "iso3": "NGA",
+    "iso2": "NG",
+    "name": "Nigeria",
+    "region": "Sub-Saharan Africa",
+    "capital": "Abuja",
+    "capitalCoords": [9.08, 7.4],
+    "population": 232.7,
+    "areaKm2": 923768,
+    "tags": ["energy-exporter", "middle-power"],
+    "summary": "Africa's most populous country and a leading oil producer, undergoing painful reforms — fuel-subsidy removal and currency unification — under President Tinubu. Jihadist insurgency in the north-east and banditry in the north-west remain major threats.",
+    "strategicInterests": [
+      "Economic stabilisation and investment inflows",
+      "Defeat Boko Haram / ISWAP and curb banditry",
+      "Regional leadership of ECOWAS after the Sahel juntas' exit",
+      "Raise oil output and domestic refining (Dangote refinery)"
+    ],
+    "economy": {
+      "gdpUsdBn": 252,
+      "gdpGrowthPct": 3.4,
+      "inflationPct": 33.2,
+      "debtPctGdp": 52,
+      "currency": "Naira (NGN)",
+      "sectors": ["Oil & gas", "Agriculture", "Telecoms & fintech", "Trade", "Entertainment"],
+      "topExports": ["Crude oil", "LNG", "Urea", "Cocoa", "Sesame seeds"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 143000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Counter-insurgency operations", "Regional peacekeeping heritage", "JF-17 and Super Tucano aircraft"]
+    },
+    "government": {
+      "system": "Federal presidential republic",
+      "headOfState": "Bola Tinubu",
+      "headOfGovernment": "Bola Tinubu",
+      "notes": "GDP figure reflects the 2025 statistical rebasing."
+    },
+    "resources": [
+      { "name": "Oil", "note": "Largest proven reserves in Africa after Libya" },
+      { "name": "Natural gas", "note": "Largest reserves in Africa" },
+      { "name": "Demographics", "note": "Population projected to exceed 350 million by 2050" }
+    ]
+  },
+  {
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "name": "South Africa",
+    "region": "Sub-Saharan Africa",
+    "capital": "Pretoria",
+    "capitalCoords": [-25.75, 28.19],
+    "population": 63.1,
+    "areaKm2": 1221037,
+    "tags": ["critical-minerals", "middle-power"],
+    "summary": "Africa's most industrialised economy and a BRICS founder, governed since 2024 by a multi-party Government of National Unity. Pretoria's non-aligned stance and its ICJ genocide case against Israel have strained ties with Washington; it hosted the 2025 G20 summit.",
+    "strategicInterests": [
+      "Voice for Africa in the G20 and BRICS",
+      "Protect trade access (AGOA) amid US tariffs",
+      "Fix electricity and logistics bottlenecks",
+      "Reform-driven growth under the unity government"
+    ],
+    "economy": {
+      "gdpUsdBn": 400,
+      "gdpGrowthPct": 0.6,
+      "inflationPct": 4.4,
+      "debtPctGdp": 76,
+      "currency": "Rand (ZAR)",
+      "sectors": ["Mining", "Finance", "Manufacturing", "Agriculture", "Tourism"],
+      "topExports": ["Platinum-group metals", "Gold", "Coal", "Iron ore", "Vehicles"]
+    },
+    "military": {
+      "spendUsdBn": 2.8,
+      "spendPctGdp": 0.7,
+      "activePersonnel": 69000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Only state to have built and voluntarily dismantled nuclear weapons", "Gripen fleet (largely grounded)", "Denel defence industry"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic with executive president",
+      "headOfState": "Cyril Ramaphosa",
+      "headOfGovernment": "Cyril Ramaphosa",
+      "notes": "ANC-led Government of National Unity with the Democratic Alliance and others."
+    },
+    "resources": [
+      { "name": "Platinum-group metals", "note": "~70% of world platinum output" },
+      { "name": "Manganese & chromium", "note": "Largest reserves globally" },
+      { "name": "Gold & coal", "note": "Historic mining backbone" }
+    ]
+  },
+  {
+    "iso3": "ETH",
+    "iso2": "ET",
+    "name": "Ethiopia",
+    "region": "Sub-Saharan Africa",
+    "capital": "Addis Ababa",
+    "capitalCoords": [9.03, 38.74],
+    "population": 132.1,
+    "areaKm2": 1104300,
+    "tags": ["fragile-state"],
+    "summary": "Africa's second most populous country and seat of the African Union, landlocked since Eritrea's independence. The Grand Ethiopian Renaissance Dam, inaugurated in 2025, has intensified its Nile dispute with Egypt, while insurgencies persist in Amhara and Oromia.",
+    "strategicInterests": [
+      "Secure sovereign access to the Red Sea",
+      "Operate the GERD and expand power exports",
+      "Contain internal insurgencies and a fragile Tigray peace",
+      "IMF-backed economic reform after floating the birr in 2024"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": 8.1,
+      "inflationPct": 21.0,
+      "debtPctGdp": null,
+      "currency": "Birr (ETB)",
+      "sectors": ["Agriculture", "Services", "Construction", "Manufacturing", "Aviation"],
+      "topExports": ["Coffee", "Gold", "Oilseeds", "Cut flowers", "Electricity"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["One of the largest armies in Africa", "Turkish, Iranian and Chinese drones"]
+    },
+    "government": {
+      "system": "Federal parliamentary republic",
+      "headOfState": "Taye Atske Selassie",
+      "headOfGovernment": "Abiy Ahmed",
+      "notes": "Prosperity Party dominant; general election planned for 2026. USD GDP omitted — distorted by the 2024 currency float."
+    },
+    "resources": [
+      { "name": "Blue Nile / GERD", "note": "Africa's largest hydroelectric dam (~5 GW)" },
+      { "name": "Coffee", "note": "Largest producer in Africa" },
+      { "name": "Ethiopian Airlines", "note": "Africa's largest carrier and a strategic hub" }
+    ]
+  },
+  {
+    "iso3": "COD",
+    "iso2": "CD",
+    "name": "DR Congo",
+    "region": "Sub-Saharan Africa",
+    "capital": "Kinshasa",
+    "capitalCoords": [-4.32, 15.31],
+    "population": 109.3,
+    "areaKm2": 2344858,
+    "tags": ["critical-minerals", "active-conflict", "fragile-state"],
+    "summary": "The world's dominant cobalt supplier and a leading copper producer, central to battery supply chains. In early 2025 the Rwanda-backed M23 rebels seized Goma and Bukavu; a US-brokered peace agreement with Rwanda followed in June 2025 alongside a minerals-for-security framework.",
+    "strategicInterests": [
+      "Restore sovereignty in the eastern provinces",
+      "Leverage cobalt export quotas to lift prices",
+      "Attract Western mining investment to balance Chinese dominance",
+      "Protect the Congo Basin rainforest and its carbon value"
+    ],
+    "economy": {
+      "gdpUsdBn": 70,
+      "gdpGrowthPct": 6.5,
+      "inflationPct": 17.7,
+      "debtPctGdp": 16,
+      "currency": "Congolese franc (CDF)",
+      "sectors": ["Mining", "Agriculture", "Informal trade"],
+      "topExports": ["Refined copper", "Cobalt", "Crude oil", "Gold", "Tin & tantalum"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["FARDC with poor cohesion", "Allied militias (Wazalendo)", "Burundian troop support; UN MONUSCO mission"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic",
+      "headOfState": "Félix Tshisekedi",
+      "headOfGovernment": "Judith Suminwa",
+      "notes": "Tshisekedi re-elected in December 2023."
+    },
+    "resources": [
+      { "name": "Cobalt", "note": "~70% of world supply" },
+      { "name": "Copper", "note": "Second-largest producer" },
+      { "name": "Coltan, lithium & gold", "note": "Manono lithium deposit among the world's largest" },
+      { "name": "Inga Falls", "note": "Potentially the largest hydropower site on earth" }
+    ]
+  },
+  {
+    "iso3": "RWA",
+    "iso2": "RW",
+    "name": "Rwanda",
+    "region": "Sub-Saharan Africa",
+    "capital": "Kigali",
+    "capitalCoords": [-1.94, 30.06],
+    "population": 14.3,
+    "areaKm2": 26338,
+    "tags": [],
+    "summary": "A small, tightly governed state with a highly capable military and an outsized regional role. UN experts report that Rwanda backs the M23 rebellion in eastern DR Congo, which Kigali frames as a response to threats from the FDLR militia.",
+    "strategicInterests": [
+      "Neutralise the FDLR in eastern DR Congo",
+      "Economic and security influence in the Great Lakes",
+      "Peacekeeping and bilateral deployments (Mozambique, CAR)",
+      "Position Kigali as a services and conference hub"
+    ],
+    "economy": {
+      "gdpUsdBn": 14,
+      "gdpGrowthPct": 8.9,
+      "inflationPct": 4.8,
+      "debtPctGdp": 73,
+      "currency": "Rwandan franc (RWF)",
+      "sectors": ["Services", "Agriculture", "Mining", "Tourism"],
+      "topExports": ["Gold", "Tin, tantalum & tungsten ores", "Coffee", "Tea"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 33000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Highly disciplined, combat-experienced force", "Major UN peacekeeping contributor"]
+    },
+    "government": {
+      "system": "Unitary presidential republic (dominant party)",
+      "headOfState": "Paul Kagame",
+      "headOfGovernment": "Justin Nsengiyumva",
+      "notes": "Kagame has led the country since 2000."
+    },
+    "resources": [
+      { "name": "3T minerals", "note": "UN experts link part of Rwanda's exports to minerals smuggled from eastern DRC; Kigali denies this" },
+      { "name": "Gorilla tourism", "note": "High-value conservation tourism" }
+    ]
+  },
+  {
+    "iso3": "KEN",
+    "iso2": "KE",
+    "name": "Kenya",
+    "region": "Sub-Saharan Africa",
+    "capital": "Nairobi",
+    "capitalCoords": [-1.29, 36.82],
+    "population": 56.4,
+    "areaKm2": 580367,
+    "tags": [],
+    "summary": "East Africa's economic and diplomatic hub and a US Major Non-NATO Ally since 2024. Kenya leads the multinational security mission in Haiti, while youth-led protests over taxes and debt have challenged the government.",
+    "strategicInterests": [
+      "Regional trade and logistics hub (Mombasa, LAPSSET corridor)",
+      "Security against al-Shabaab and stability in Somalia",
+      "Debt sustainability and investor confidence",
+      "Green energy leadership (geothermal)"
+    ],
+    "economy": {
+      "gdpUsdBn": 124,
+      "gdpGrowthPct": 4.7,
+      "inflationPct": 4.5,
+      "debtPctGdp": 68,
+      "currency": "Kenyan shilling (KES)",
+      "sectors": ["Agriculture", "Services & fintech", "Tourism", "Logistics"],
+      "topExports": ["Tea", "Cut flowers", "Coffee", "Titanium ore", "Apparel"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 24000,
+      "nuclearWarheads": 0,
+      "capabilities": ["AU mission in Somalia contributor", "Leads Haiti security mission"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "William Ruto",
+      "headOfGovernment": "William Ruto",
+      "notes": "General election due August 2027."
+    },
+    "resources": [
+      { "name": "Geothermal", "note": "Renewables supply ~90% of electricity" },
+      { "name": "Port of Mombasa", "note": "Gateway for Uganda, Rwanda, South Sudan and eastern DRC" }
+    ]
+  },
+  {
+    "iso3": "SDN",
+    "iso2": "SD",
+    "name": "Sudan",
+    "region": "Sub-Saharan Africa",
+    "capital": "Khartoum (government operating from Port Sudan)",
+    "capitalCoords": [15.5, 32.56],
+    "population": 50.4,
+    "areaKm2": 1861484,
+    "tags": ["active-conflict", "fragile-state"],
+    "summary": "Engulfed since April 2023 in a civil war between the Sudanese Armed Forces and the Rapid Support Forces, producing the world's largest displacement crisis and famine. The RSF captured El Fasher in October 2025, consolidating its hold on Darfur.",
+    "strategicInterests": [
+      "SAF: defeat the RSF and preserve state authority",
+      "Access to external arms (Egypt, Turkey, Iran and others)",
+      "Humanitarian access and famine relief",
+      "Control of gold revenues and the Red Sea coast"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": null,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Sudanese pound (SDG)",
+      "sectors": ["Agriculture", "Gold mining", "Livestock"],
+      "topExports": ["Gold", "Livestock", "Sesame", "Gum arabic", "Groundnuts"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["SAF air power and drones", "RSF paramilitary with Darfur base"]
+    },
+    "government": {
+      "system": "Military-led transitional government",
+      "headOfState": "Abdel Fattah al-Burhan",
+      "headOfGovernment": "Kamil Idris",
+      "notes": "The RSF has declared a rival administration in areas it controls."
+    },
+    "resources": [
+      { "name": "Gold", "note": "Main export; financing both warring sides" },
+      { "name": "Gum arabic", "note": "~70% of world supply" },
+      { "name": "Red Sea coast", "note": "Port Sudan; Russian naval base agreement unratified" }
+    ]
+  }
+]

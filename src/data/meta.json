@@ -1,0 +1,85 @@
+{
+  "dataset": "Atlas core dataset",
+  "version": "2025.4",
+  "asOf": "Late 2025",
+  "referenceYear": 2024,
+  "sources": [
+    {
+      "id": "imf-weo",
+      "name": "IMF World Economic Outlook database",
+      "publisher": "International Monetary Fund",
+      "url": "https://www.imf.org/en/Publications/WEO",
+      "covers": "Nominal GDP, real GDP growth, inflation, general government gross debt"
+    },
+    {
+      "id": "wb-wdi",
+      "name": "World Development Indicators",
+      "publisher": "World Bank",
+      "url": "https://databank.worldbank.org/source/world-development-indicators",
+      "covers": "Surface area; GDP for economies outside IMF coverage (e.g. Afghanistan, Syria, Palestine)"
+    },
+    {
+      "id": "un-wpp",
+      "name": "World Population Prospects 2024",
+      "publisher": "UN Department of Economic and Social Affairs",
+      "url": "https://population.un.org/wpp/",
+      "covers": "Population estimates (national statistics offices where more current)"
+    },
+    {
+      "id": "sipri-milex",
+      "name": "SIPRI Military Expenditure Database",
+      "publisher": "Stockholm International Peace Research Institute",
+      "url": "https://www.sipri.org/databases/milex",
+      "covers": "Military expenditure in USD and as a share of GDP (2024)"
+    },
+    {
+      "id": "sipri-yearbook",
+      "name": "SIPRI Yearbook 2025 — World nuclear forces",
+      "publisher": "Stockholm International Peace Research Institute",
+      "url": "https://www.sipri.org/yearbook",
+      "covers": "Estimated total nuclear warhead inventories (January 2025)"
+    },
+    {
+      "id": "iiss-mb",
+      "name": "The Military Balance 2025",
+      "publisher": "International Institute for Strategic Studies",
+      "url": "https://www.iiss.org/publications/the-military-balance/",
+      "covers": "Active armed forces personnel and notable capabilities"
+    },
+    {
+      "id": "usgs-mcs",
+      "name": "Mineral Commodity Summaries 2025",
+      "publisher": "US Geological Survey",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/",
+      "covers": "Production and reserve shares for critical minerals"
+    },
+    {
+      "id": "eia",
+      "name": "International Energy Statistics",
+      "publisher": "US Energy Information Administration",
+      "url": "https://www.eia.gov/international/data/world",
+      "covers": "Oil and gas reserves and production"
+    },
+    {
+      "id": "un-comtrade",
+      "name": "UN Comtrade & national customs statistics",
+      "publisher": "United Nations Statistics Division",
+      "url": "https://comtradeplus.un.org/",
+      "covers": "Bilateral goods-trade values and top exports"
+    },
+    {
+      "id": "treaties",
+      "name": "Treaty texts & official communiqués",
+      "publisher": "NATO, EU, ASEAN, SCO, CSTO, OPEC secretariats; national foreign ministries",
+      "url": "https://www.nato.int/cps/en/natohq/topics_52044.htm",
+      "covers": "Alliance and bloc membership, treaty dates and commitments"
+    },
+    {
+      "id": "ne",
+      "name": "Natural Earth — Admin 0 countries (1:110m)",
+      "publisher": "Natural Earth (public domain)",
+      "url": "https://www.naturalearthdata.com/",
+      "covers": "Country boundary geometry. Boundaries shown do not imply endorsement of any territorial claim."
+    }
+  ]
+}

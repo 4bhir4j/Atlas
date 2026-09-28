@@ -1,0 +1,768 @@
+[
+  {
+    "iso3": "CHN",
+    "iso2": "CN",
+    "name": "China",
+    "region": "East Asia",
+    "capital": "Beijing",
+    "capitalCoords": [39.9, 116.4],
+    "population": 1408,
+    "areaKm2": 9596960,
+    "tags": ["great-power", "nuclear-armed", "p5", "critical-minerals"],
+    "summary": "The world's manufacturing superpower and principal strategic competitor to the United States. China dominates critical-mineral processing and clean-tech supply chains, is rapidly expanding its navy and nuclear arsenal, and seeks unification with Taiwan.",
+    "strategicInterests": [
+      "Unification with Taiwan and deterrence of US intervention",
+      "Consolidate claims in the South and East China Seas",
+      "Technological self-reliance against US export controls",
+      "Leverage over critical minerals (rare earths, gallium, graphite)",
+      "Belt and Road and leadership of the Global South"
+    ],
+    "economy": {
+      "gdpUsdBn": 18748,
+      "gdpGrowthPct": 5.0,
+      "inflationPct": 0.2,
+      "debtPctGdp": 88,
+      "currency": "Renminbi (CNY)",
+      "sectors": ["Manufacturing", "Construction & property", "Technology", "Clean energy", "Services"],
+      "topExports": ["Electronics & telecoms", "Machinery", "EVs & batteries", "Solar modules", "Steel"]
+    },
+    "military": {
+      "spendUsdBn": 314,
+      "spendPctGdp": 1.7,
+      "activePersonnel": 2035000,
+      "nuclearWarheads": 600,
+      "capabilities": ["Largest navy by hull count", "Three aircraft carriers (Fujian commissioned 2025)", "Rapidly growing ICBM force", "Anti-access/area-denial missile forces", "Space and counter-space"]
+    },
+    "government": {
+      "system": "Unitary Marxist–Leninist one-party state",
+      "headOfState": "Xi Jinping",
+      "headOfGovernment": "Li Qiang",
+      "notes": "Xi is General Secretary of the CCP, Chair of the Central Military Commission and President."
+    },
+    "resources": [
+      { "name": "Rare earths", "note": "~60–70% of mining and ~90% of processing" },
+      { "name": "Battery supply chain", "note": "Dominates cathodes, anodes, graphite and cell production" },
+      { "name": "Gallium & germanium", "note": "Near-monopoly; subject to export controls" },
+      { "name": "Coal", "note": "Over half of global consumption" }
+    ]
+  },
+  {
+    "iso3": "JPN",
+    "iso2": "JP",
+    "name": "Japan",
+    "region": "East Asia",
+    "capital": "Tokyo",
+    "capitalCoords": [35.68, 139.69],
+    "population": 123.8,
+    "areaKm2": 377975,
+    "tags": ["middle-power"],
+    "summary": "A technological and financial powerhouse and the linchpin US ally in Asia, undertaking its largest defence build-up since 1945. Tokyo is doubling defence spending to 2% of GDP and acquiring counterstrike missiles to deter China and North Korea.",
+    "strategicInterests": [
+      "Deter Chinese coercion around the Senkakus and Taiwan",
+      "Counter North Korean missile threats",
+      "Strengthen the US alliance and networks with Australia, the Philippines and the UK",
+      "Economic security: semiconductors and supply-chain resilience",
+      "Energy security for a resource-poor economy"
+    ],
+    "economy": {
+      "gdpUsdBn": 4026,
+      "gdpGrowthPct": 0.1,
+      "inflationPct": 2.7,
+      "debtPctGdp": 237,
+      "currency": "Yen (JPY)",
+      "sectors": ["Automotive", "Electronics", "Machinery", "Semiconductor materials", "Finance"],
+      "topExports": ["Cars", "Semiconductor equipment", "Integrated circuits", "Machinery", "Steel"]
+    },
+    "military": {
+      "spendUsdBn": 55.3,
+      "spendPctGdp": 1.4,
+      "activePersonnel": 247000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Izumo-class carriers converted for F-35B", "Tomahawk counterstrike missiles", "Aegis ballistic-missile defence", "Hosts ~55,000 US troops"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "Emperor Naruhito",
+      "headOfGovernment": "Sanae Takaichi",
+      "notes": "Japan's first female prime minister, in office since October 2025."
+    },
+    "resources": [
+      { "name": "Semiconductor materials", "note": "Dominant in photoresists, wafers and equipment" },
+      { "name": "Maritime zone", "note": "Seabed rare-earth mud near Minamitorishima" },
+      { "name": "Energy imports", "note": "Imports ~85% of its primary energy" }
+    ]
+  },
+  {
+    "iso3": "KOR",
+    "iso2": "KR",
+    "name": "South Korea",
+    "region": "East Asia",
+    "capital": "Seoul",
+    "capitalCoords": [37.57, 126.98],
+    "population": 51.7,
+    "areaKm2": 100210,
+    "tags": ["middle-power"],
+    "summary": "An advanced manufacturing economy at the heart of global memory-chip, battery and shipbuilding supply chains, living under constant threat from North Korea. Political turmoil after the December 2024 martial-law declaration ended with Lee Jae-myung's election in June 2025.",
+    "strategicInterests": [
+      "Deterrence of North Korea under the US alliance",
+      "Stable trade with both China and the United States",
+      "Defence exports (tanks, howitzers, fighters)",
+      "Nuclear-powered submarine programme"
+    ],
+    "economy": {
+      "gdpUsdBn": 1870,
+      "gdpGrowthPct": 2.0,
+      "inflationPct": 2.3,
+      "debtPctGdp": 53,
+      "currency": "Won (KRW)",
+      "sectors": ["Semiconductors", "Shipbuilding", "Automotive", "Batteries", "Petrochemicals"],
+      "topExports": ["Memory chips", "Cars", "Refined petroleum", "Ships", "Batteries"]
+    },
+    "military": {
+      "spendUsdBn": 47.6,
+      "spendPctGdp": 2.6,
+      "activePersonnel": 500000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Kill Chain pre-emptive strike doctrine", "Large K9 artillery and K2 tank fleets", "KF-21 fighter", "Hosts ~28,500 US troops"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Lee Jae-myung",
+      "headOfGovernment": "Kim Min-seok",
+      "notes": "Predecessor Yoon Suk Yeol was removed from office in April 2025."
+    },
+    "resources": [
+      { "name": "Memory chips", "note": "Samsung and SK hynix lead DRAM and HBM for AI" },
+      { "name": "Shipbuilding", "note": "Second-largest shipbuilder" }
+    ]
+  },
+  {
+    "iso3": "PRK",
+    "iso2": "KP",
+    "name": "North Korea",
+    "region": "East Asia",
+    "capital": "Pyongyang",
+    "capitalCoords": [39.04, 125.76],
+    "population": 26.5,
+    "areaKm2": 120538,
+    "tags": ["nuclear-armed", "sanctioned"],
+    "summary": "A hereditary totalitarian state with a growing nuclear arsenal and ICBMs. Its 2024 mutual-defence treaty with Russia — and the deployment of troops to fight for Russia — has given Pyongyang cash, technology and relief from diplomatic isolation.",
+    "strategicInterests": [
+      "Regime survival and recognition as a nuclear-weapon state",
+      "Military-technical cooperation with Russia",
+      "Sanctions evasion, including large-scale crypto theft",
+      "Treat South Korea as a separate, hostile state (doctrine since 2024)"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": null,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "North Korean won (KPW)",
+      "sectors": ["Mining", "Military industry", "Agriculture", "Illicit revenue"],
+      "topExports": ["Munitions (to Russia)", "Wigs & false eyelashes", "Ferrosilicon", "Coal (sanctioned)"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 1280000,
+      "nuclearWarheads": 50,
+      "capabilities": ["Solid-fuel ICBMs (Hwasong-18/19)", "Tactical nuclear weapons", "Massive artillery aimed at Seoul", "Cyber units (Lazarus Group)"]
+    },
+    "government": {
+      "system": "Unitary one-party totalitarian state",
+      "headOfState": "Kim Jong Un",
+      "headOfGovernment": "Pak Thae Song",
+      "notes": "Kim is General Secretary of the Workers' Party and President of State Affairs."
+    },
+    "resources": [
+      { "name": "Minerals", "note": "Coal, iron ore, magnesite and claimed rare-earth deposits" },
+      { "name": "Cyber theft", "note": "Linked to the ~$1.5bn Bybit crypto hack in 2025" }
+    ]
+  },
+  {
+    "iso3": "TWN",
+    "iso2": "TW",
+    "name": "Taiwan",
+    "region": "East Asia",
+    "capital": "Taipei",
+    "capitalCoords": [25.03, 121.57],
+    "population": 23.4,
+    "areaKm2": 36193,
+    "tags": ["critical-minerals"],
+    "summary": "A self-governing democracy claimed by Beijing, producing the vast majority of the world's most advanced semiconductors. Mounting Chinese military pressure makes the Taiwan Strait the most consequential flashpoint in the Indo-Pacific.",
+    "strategicInterests": [
+      "Deter invasion or blockade through asymmetric defence",
+      "Sustain US arms sales and political support",
+      "Preserve its semiconductor edge (the 'silicon shield')",
+      "Energy resilience for an import-dependent grid",
+      "International space and diplomatic allies"
+    ],
+    "economy": {
+      "gdpUsdBn": 795,
+      "gdpGrowthPct": 4.8,
+      "inflationPct": 2.2,
+      "debtPctGdp": 27,
+      "currency": "New Taiwan dollar (TWD)",
+      "sectors": ["Semiconductors", "Electronics", "Petrochemicals", "Machinery", "ICT services"],
+      "topExports": ["Integrated circuits", "Servers & computers", "Electronic components", "Machinery", "Plastics"]
+    },
+    "military": {
+      "spendUsdBn": 16.5,
+      "spendPctGdp": 2.2,
+      "activePersonnel": 169000,
+      "nuclearWarheads": 0,
+      "capabilities": ["HIMARS, Harpoon coastal defence and drones", "Domestic submarine programme", "One-year conscription restored in 2024", "Patriot and indigenous air defence"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic",
+      "headOfState": "Lai Ching-te",
+      "headOfGovernment": "Cho Jung-tai",
+      "notes": "Opposition KMT and TPP control the Legislative Yuan."
+    },
+    "resources": [
+      { "name": "Advanced chips", "note": "TSMC produces ~90% of leading-edge logic chips" },
+      { "name": "Energy imports", "note": "Imports ~97% of energy — vulnerable to blockade" }
+    ]
+  },
+  {
+    "iso3": "IND",
+    "iso2": "IN",
+    "name": "India",
+    "region": "South Asia",
+    "capital": "New Delhi",
+    "capitalCoords": [28.61, 77.21],
+    "population": 1450.9,
+    "areaKm2": 3287263,
+    "tags": ["great-power", "nuclear-armed"],
+    "summary": "The world's most populous country and fastest-growing major economy, pursuing 'strategic autonomy' between the West, Russia and the Global South. India faces an unresolved border with China and fought a brief conflict with Pakistan in May 2025.",
+    "strategicInterests": [
+      "Manage the disputed border with China while building capacity",
+      "Deter cross-border terrorism from Pakistan",
+      "Primacy in the Indian Ocean region",
+      "Manufacturing growth and technology partnerships",
+      "Discounted Russian energy while deepening ties with the US, Europe and the Gulf"
+    ],
+    "economy": {
+      "gdpUsdBn": 3909,
+      "gdpGrowthPct": 6.5,
+      "inflationPct": 4.7,
+      "debtPctGdp": 83,
+      "currency": "Indian rupee (INR)",
+      "sectors": ["IT & business services", "Pharmaceuticals", "Agriculture", "Manufacturing", "Refining"],
+      "topExports": ["Refined petroleum", "Software & IT services", "Smartphones", "Pharmaceuticals", "Diamonds & jewellery"]
+    },
+    "military": {
+      "spendUsdBn": 86.1,
+      "spendPctGdp": 2.3,
+      "activePersonnel": 1475000,
+      "nuclearWarheads": 180,
+      "capabilities": ["Nuclear triad (Arihant-class SSBNs)", "Two aircraft carriers", "BrahMos cruise missiles", "Agni-V MIRV-capable ICBM", "S-400 air defence"]
+    },
+    "government": {
+      "system": "Federal parliamentary republic",
+      "headOfState": "Droupadi Murmu",
+      "headOfGovernment": "Narendra Modi",
+      "notes": "BJP-led NDA coalition; Modi's third term began in 2024."
+    },
+    "resources": [
+      { "name": "Coal", "note": "Second-largest producer; ~70% of power generation" },
+      { "name": "Demographic dividend", "note": "Median age ~28" },
+      { "name": "IT services", "note": "Global leader in software and business-process services" },
+      { "name": "Rare earths", "note": "Large monazite sands; limited processing" }
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "iso2": "PK",
+    "name": "Pakistan",
+    "region": "South Asia",
+    "capital": "Islamabad",
+    "capitalCoords": [33.68, 73.05],
+    "population": 251.3,
+    "areaKm2": 881913,
+    "tags": ["nuclear-armed", "fragile-state"],
+    "summary": "A nuclear-armed state where the military holds decisive power. Pakistan depends on IMF support, is China's closest partner in South Asia, signed a mutual defence pact with Saudi Arabia in 2025 and faces rising militancy on its Afghan border.",
+    "strategicInterests": [
+      "Kashmir and deterrence of India",
+      "Counter TTP and Baloch insurgencies",
+      "Economic stabilisation under the IMF programme",
+      "China–Pakistan Economic Corridor (CPEC)",
+      "Revived relationship with the United States and Gulf states"
+    ],
+    "economy": {
+      "gdpUsdBn": 374,
+      "gdpGrowthPct": 2.5,
+      "inflationPct": 23.4,
+      "debtPctGdp": 70,
+      "currency": "Pakistani rupee (PKR)",
+      "sectors": ["Agriculture", "Textiles", "Services", "Remittances"],
+      "topExports": ["Textiles & apparel", "Rice", "Copper", "Cement", "Surgical instruments"]
+    },
+    "military": {
+      "spendUsdBn": 10.2,
+      "spendPctGdp": 2.7,
+      "activePersonnel": 660000,
+      "nuclearWarheads": 170,
+      "capabilities": ["Short-range tactical nuclear weapons (Nasr)", "J-10C fighters with PL-15 missiles", "Chinese Hangor-class submarines on order"]
+    },
+    "government": {
+      "system": "Federal parliamentary republic",
+      "headOfState": "Asif Ali Zardari",
+      "headOfGovernment": "Shehbaz Sharif",
+      "notes": "Army chief Field Marshal Asim Munir wields decisive influence over security and foreign policy."
+    },
+    "resources": [
+      { "name": "Indus basin", "note": "Irrigation lifeline; India suspended the Indus Waters Treaty in 2025" },
+      { "name": "Reko Diq", "note": "One of the world's largest undeveloped copper-gold deposits" },
+      { "name": "Gwadar port", "note": "CPEC terminus on the Arabian Sea" }
+    ]
+  },
+  {
+    "iso3": "AFG",
+    "iso2": "AF",
+    "name": "Afghanistan",
+    "region": "South Asia",
+    "capital": "Kabul",
+    "capitalCoords": [34.53, 69.17],
+    "population": 42.6,
+    "areaKm2": 652864,
+    "tags": ["sanctioned", "fragile-state"],
+    "summary": "Ruled by the Taliban since August 2021 and recognised only by Russia (from July 2025). Severe restrictions on women, a collapsed aid economy and clashes with Pakistan over the TTP define the country's position.",
+    "strategicInterests": [
+      "International recognition and sanctions relief",
+      "Mining and transit deals with China, Russia and Central Asia",
+      "Border disputes with Pakistan (Durand Line)",
+      "Contain the Islamic State–Khorasan Province"
+    ],
+    "economy": {
+      "gdpUsdBn": 17,
+      "gdpGrowthPct": 2.5,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Afghani (AFN)",
+      "sectors": ["Agriculture", "Mining", "Informal trade"],
+      "topExports": ["Coal", "Dried fruit & nuts", "Cotton", "Vegetables", "Carpets"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["Taliban forces using captured US equipment"]
+    },
+    "government": {
+      "system": "Unitary theocratic emirate (Taliban)",
+      "headOfState": "Hibatullah Akhundzada (Supreme Leader)",
+      "headOfGovernment": "Mohammad Hassan Akhund",
+      "notes": "Governs by decree from Kandahar; no constitution."
+    },
+    "resources": [
+      { "name": "Untapped minerals", "note": "Copper (Mes Aynak), iron, lithium and rare earths — often estimated at $1 trillion" },
+      { "name": "Water", "note": "Qosh Tepa canal diverting Amu Darya flows" }
+    ]
+  },
+  {
+    "iso3": "BGD",
+    "iso2": "BD",
+    "name": "Bangladesh",
+    "region": "South Asia",
+    "capital": "Dhaka",
+    "capitalCoords": [23.81, 90.41],
+    "population": 173.6,
+    "areaKm2": 148460,
+    "tags": [],
+    "summary": "The world's second-largest garment exporter, in political transition since a 2024 student-led uprising ousted Sheikh Hasina. An interim government under Muhammad Yunus has steered toward elections while recalibrating ties with India and China.",
+    "strategicInterests": [
+      "Credible elections and democratic transition",
+      "Protect garment export markets amid tariffs",
+      "Rebalance relations with India, China and Pakistan",
+      "Repatriation of about one million Rohingya refugees",
+      "Climate adaptation in the Ganges–Brahmaputra delta"
+    ],
+    "economy": {
+      "gdpUsdBn": 451,
+      "gdpGrowthPct": 4.2,
+      "inflationPct": 9.7,
+      "debtPctGdp": 39,
+      "currency": "Taka (BDT)",
+      "sectors": ["Garments", "Agriculture", "Remittances", "Services"],
+      "topExports": ["Knitwear", "Woven garments", "Home textiles", "Leather goods", "Jute"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 163000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Largest contributor to UN peacekeeping", "Chinese-supplied submarines and frigates"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic (interim administration)",
+      "headOfState": "Mohammed Shahabuddin",
+      "headOfGovernment": "Muhammad Yunus (Chief Adviser)",
+      "notes": "Interim government since August 2024; elections scheduled for February 2026."
+    },
+    "resources": [
+      { "name": "Garment industry", "note": "Over 80% of export earnings" },
+      { "name": "Bay of Bengal", "note": "Offshore gas prospects and strategic ports (Matarbari)" }
+    ]
+  },
+  {
+    "iso3": "IDN",
+    "iso2": "ID",
+    "name": "Indonesia",
+    "region": "Southeast Asia",
+    "capital": "Jakarta",
+    "capitalCoords": [-6.21, 106.85],
+    "population": 283.5,
+    "areaKm2": 1904569,
+    "tags": ["critical-minerals", "energy-exporter", "chokepoint", "middle-power"],
+    "summary": "The world's largest archipelagic state and Southeast Asia's biggest economy, straddling the Malacca, Sunda and Lombok straits. Resource nationalism has made it the dominant nickel supplier, and it joined BRICS in 2025 while guarding its non-aligned tradition.",
+    "strategicInterests": [
+      "Downstream processing of nickel and other minerals into EV supply chains",
+      "Non-alignment between the US and China",
+      "Protect the Natuna EEZ against Chinese incursions",
+      "ASEAN centrality and maritime security"
+    ],
+    "economy": {
+      "gdpUsdBn": 1396,
+      "gdpGrowthPct": 5.0,
+      "inflationPct": 2.3,
+      "debtPctGdp": 40,
+      "currency": "Rupiah (IDR)",
+      "sectors": ["Mining", "Palm oil", "Manufacturing", "Services", "Tourism"],
+      "topExports": ["Coal", "Palm oil", "Iron & steel (nickel pig iron)", "Nickel matte", "Natural gas"]
+    },
+    "military": {
+      "spendUsdBn": 8.7,
+      "spendPctGdp": 0.6,
+      "activePersonnel": 404500,
+      "nuclearWarheads": 0,
+      "capabilities": ["Rafale fighters on order", "KAAN fighter purchase from Turkey announced", "Archipelagic defence focus"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Prabowo Subianto",
+      "headOfGovernment": "Prabowo Subianto",
+      "notes": "Took office October 2024; broad governing coalition."
+    },
+    "resources": [
+      { "name": "Nickel", "note": "Over half of world supply; raw ore export ban since 2020" },
+      { "name": "Coal & palm oil", "note": "Largest exporter of thermal coal and palm oil" },
+      { "name": "Straits", "note": "Malacca, Sunda and Lombok — critical Indo-Pacific sea lanes" }
+    ]
+  },
+  {
+    "iso3": "VNM",
+    "iso2": "VN",
+    "name": "Vietnam",
+    "region": "Southeast Asia",
+    "capital": "Hanoi",
+    "capitalCoords": [21.03, 105.85],
+    "population": 101.0,
+    "areaKm2": 331212,
+    "tags": ["critical-minerals"],
+    "summary": "A one-party state and export-manufacturing powerhouse that has gained from supply chains shifting out of China. Hanoi practises 'bamboo diplomacy', upgrading ties with the US while contesting Chinese claims in the South China Sea.",
+    "strategicInterests": [
+      "Sovereignty claims to the Paracel and Spratly Islands",
+      "Attract manufacturing FDI and preserve US market access",
+      "Balance relations among the US, China and Russia",
+      "Develop rare-earth reserves"
+    ],
+    "economy": {
+      "gdpUsdBn": 476,
+      "gdpGrowthPct": 7.1,
+      "inflationPct": 3.6,
+      "debtPctGdp": 33,
+      "currency": "Đồng (VND)",
+      "sectors": ["Electronics assembly", "Textiles & footwear", "Agriculture", "Tourism"],
+      "topExports": ["Smartphones & electronics", "Computers", "Textiles", "Footwear", "Coffee & rice"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 450000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Kilo-class submarines", "Rapid island building in the Spratlys", "Russian-origin air force"]
+    },
+    "government": {
+      "system": "Unitary Marxist–Leninist one-party state",
+      "headOfState": "Lương Cường",
+      "headOfGovernment": "Phạm Minh Chính",
+      "notes": "Communist Party General Secretary Tô Lâm is the paramount leader."
+    },
+    "resources": [
+      { "name": "Rare earths", "note": "Among the world's largest reserves" },
+      { "name": "Offshore oil & gas", "note": "Partly in waters contested by China" },
+      { "name": "Rice & coffee", "note": "Top-three rice exporter; second-largest coffee producer" }
+    ]
+  },
+  {
+    "iso3": "PHL",
+    "iso2": "PH",
+    "name": "Philippines",
+    "region": "Southeast Asia",
+    "capital": "Manila",
+    "capitalCoords": [14.6, 120.98],
+    "population": 115.8,
+    "areaKm2": 300000,
+    "tags": ["critical-minerals"],
+    "summary": "A US treaty ally on the front line of Chinese maritime pressure in the South China Sea. Manila has expanded US access to bases, signed a reciprocal access agreement with Japan and publicised Chinese coast-guard harassment.",
+    "strategicInterests": [
+      "Defend West Philippine Sea claims under the 2016 arbitral award",
+      "Deepen the US alliance and access sites near Taiwan",
+      "Security networks with Japan and Australia",
+      "Nickel and mineral processing investment"
+    ],
+    "economy": {
+      "gdpUsdBn": 461,
+      "gdpGrowthPct": 5.7,
+      "inflationPct": 3.2,
+      "debtPctGdp": 60,
+      "currency": "Philippine peso (PHP)",
+      "sectors": ["Business-process outsourcing", "Remittances", "Electronics", "Agriculture"],
+      "topExports": ["Integrated circuits", "Electronics", "Nickel ore", "Coconut oil", "Bananas"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 146000,
+      "nuclearWarheads": 0,
+      "capabilities": ["BrahMos anti-ship missiles from India", "Nine EDCA sites for US forces", "Coast guard 'transparency' operations"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Ferdinand Marcos Jr.",
+      "headOfGovernment": "Ferdinand Marcos Jr.",
+      "notes": "Public feud with the Duterte family; ex-president Duterte is before the ICC."
+    },
+    "resources": [
+      { "name": "Nickel", "note": "Second-largest producer" },
+      { "name": "Luzon Strait", "note": "Strategic chokepoint between Taiwan and Luzon" }
+    ]
+  },
+  {
+    "iso3": "THA",
+    "iso2": "TH",
+    "name": "Thailand",
+    "region": "Southeast Asia",
+    "capital": "Bangkok",
+    "capitalCoords": [13.76, 100.5],
+    "population": 71.7,
+    "areaKm2": 513120,
+    "tags": [],
+    "summary": "A US treaty ally with close ties to China, and Southeast Asia's automotive hub. Deadly border clashes with Cambodia in July 2025 and recurrent political instability have tested the kingdom.",
+    "strategicInterests": [
+      "Resolve the Cambodia border dispute",
+      "Balance the US alliance with Chinese economic ties",
+      "Transition the auto industry to EVs",
+      "Political stability"
+    ],
+    "economy": {
+      "gdpUsdBn": 527,
+      "gdpGrowthPct": 2.5,
+      "inflationPct": 0.4,
+      "debtPctGdp": 63,
+      "currency": "Baht (THB)",
+      "sectors": ["Automotive", "Electronics", "Tourism", "Agriculture"],
+      "topExports": ["Computers & parts", "Vehicles", "Rubber products", "Rice", "Jewellery"]
+    },
+    "military": {
+      "spendUsdBn": 5.8,
+      "spendPctGdp": 1.1,
+      "activePersonnel": 360000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Gripen fighters", "Only Southeast Asian carrier (Chakri Naruebet)", "Cobra Gold exercises with US"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Maha Vajiralongkorn",
+      "headOfGovernment": "Anutin Charnvirakul",
+      "notes": "Became prime minister in September 2025 after Paetongtarn Shinawatra's removal."
+    },
+    "resources": [
+      { "name": "Auto manufacturing", "note": "Largest vehicle producer in Southeast Asia" },
+      { "name": "Rice & rubber", "note": "Top exporters of both" }
+    ]
+  },
+  {
+    "iso3": "MMR",
+    "iso2": "MM",
+    "name": "Myanmar",
+    "region": "Southeast Asia",
+    "capital": "Naypyidaw",
+    "capitalCoords": [19.76, 96.08],
+    "population": 54.5,
+    "areaKm2": 676578,
+    "tags": ["active-conflict", "sanctioned", "critical-minerals", "fragile-state"],
+    "summary": "In civil war since the 2021 military coup, with resistance forces and ethnic armies controlling large areas. Myanmar is a key supplier of heavy rare earths to China, which protects the junta and its corridor to the Bay of Bengal.",
+    "strategicInterests": [
+      "Junta: survival and legitimisation through staged elections",
+      "Chinese backing and the China–Myanmar Economic Corridor",
+      "Control of border trade and resource zones",
+      "Resistance: federal democratic union"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": null,
+      "inflationPct": null,
+      "debtPctGdp": null,
+      "currency": "Kyat (MMK)",
+      "sectors": ["Agriculture", "Mining", "Natural gas", "Garments"],
+      "topExports": ["Natural gas", "Rare earths", "Garments", "Rice & beans", "Jade"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": null,
+      "nuclearWarheads": 0,
+      "capabilities": ["Air power and airstrikes", "Russian and Chinese arms", "Conscription law enforced since 2024"]
+    },
+    "government": {
+      "system": "Military-led government",
+      "headOfState": "Min Aung Hlaing",
+      "headOfGovernment": "Nyo Saw",
+      "notes": "Junta-run elections held in phases from December 2025; widely viewed as illegitimate."
+    },
+    "resources": [
+      { "name": "Heavy rare earths", "note": "Kachin State mines are a major source of Chinese supply" },
+      { "name": "Jade", "note": "World's main source of jadeite" },
+      { "name": "Kyaukphyu", "note": "Deep-sea port and pipelines linking China to the Indian Ocean" }
+    ]
+  },
+  {
+    "iso3": "MYS",
+    "iso2": "MY",
+    "name": "Malaysia",
+    "region": "Southeast Asia",
+    "capital": "Kuala Lumpur",
+    "capitalCoords": [3.14, 101.69],
+    "population": 35.6,
+    "areaKm2": 330803,
+    "tags": ["chokepoint", "energy-exporter"],
+    "summary": "A trading nation on the Strait of Malacca and a major hub for semiconductor back-end manufacturing and data centres. Kuala Lumpur takes a quiet approach to its South China Sea disputes with China and chaired ASEAN in 2025.",
+    "strategicInterests": [
+      "Security of the Strait of Malacca",
+      "Grow semiconductor and data-centre investment",
+      "Quiet management of South China Sea claims",
+      "ASEAN leadership and neutrality"
+    ],
+    "economy": {
+      "gdpUsdBn": 422,
+      "gdpGrowthPct": 5.1,
+      "inflationPct": 1.8,
+      "debtPctGdp": 69,
+      "currency": "Ringgit (MYR)",
+      "sectors": ["Electronics", "Oil & gas", "Palm oil", "Services"],
+      "topExports": ["Integrated circuits", "Refined petroleum", "LNG", "Palm oil", "Rubber gloves"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 113000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Littoral combat ship programme", "Five Power Defence Arrangements member"]
+    },
+    "government": {
+      "system": "Federal parliamentary elective constitutional monarchy",
+      "headOfState": "Sultan Ibrahim (Yang di-Pertuan Agong)",
+      "headOfGovernment": "Anwar Ibrahim",
+      "notes": "Unity government since 2022."
+    },
+    "resources": [
+      { "name": "Strait of Malacca", "note": "~25% of world seaborne trade" },
+      { "name": "Chip packaging", "note": "~13% of global semiconductor assembly and test" },
+      { "name": "Rare-earth processing", "note": "Lynas plant is the largest outside China" }
+    ]
+  },
+  {
+    "iso3": "AUS",
+    "iso2": "AU",
+    "name": "Australia",
+    "region": "Oceania",
+    "capital": "Canberra",
+    "capitalCoords": [-35.28, 149.13],
+    "population": 27.2,
+    "areaKm2": 7692024,
+    "tags": ["critical-minerals", "energy-exporter", "middle-power"],
+    "summary": "A resource superpower and core US ally whose largest customer is China. Through AUKUS, Australia is acquiring nuclear-powered submarines, and it is positioning itself as a critical-minerals alternative to China.",
+    "strategicInterests": [
+      "AUKUS nuclear submarines and advanced capabilities",
+      "Counter Chinese influence among Pacific Island states",
+      "Critical-mineral partnerships with the US and Japan",
+      "Stable trade relationship with China"
+    ],
+    "economy": {
+      "gdpUsdBn": 1802,
+      "gdpGrowthPct": 1.0,
+      "inflationPct": 3.2,
+      "debtPctGdp": 50,
+      "currency": "Australian dollar (AUD)",
+      "sectors": ["Mining", "Services", "Education", "Agriculture", "Tourism"],
+      "topExports": ["Iron ore", "Coal", "LNG", "Gold", "Education services"]
+    },
+    "military": {
+      "spendUsdBn": 33.8,
+      "spendPctGdp": 1.9,
+      "activePersonnel": 59000,
+      "nuclearWarheads": 0,
+      "capabilities": ["AUKUS Virginia-class submarines from the 2030s", "F-35A fleet", "Long-range strike (Tomahawk, PrSM)", "Pine Gap intelligence facility"]
+    },
+    "government": {
+      "system": "Federal parliamentary constitutional monarchy",
+      "headOfState": "King Charles III",
+      "headOfGovernment": "Anthony Albanese",
+      "notes": "Labor won an enlarged majority in May 2025."
+    },
+    "resources": [
+      { "name": "Iron ore", "note": "Largest exporter — over half of seaborne trade" },
+      { "name": "Lithium", "note": "Largest producer" },
+      { "name": "LNG & coal", "note": "Top-three LNG exporter" },
+      { "name": "Uranium", "note": "Largest reserves in the world" }
+    ]
+  },
+  {
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "name": "New Zealand",
+    "region": "Oceania",
+    "capital": "Wellington",
+    "capitalCoords": [-41.29, 174.78],
+    "population": 5.2,
+    "areaKm2": 268021,
+    "tags": [],
+    "summary": "A Five Eyes member and Pacific power with a long-standing nuclear-free policy. Wellington is re-examining its security posture, including participation in AUKUS non-nuclear technology cooperation.",
+    "strategicInterests": [
+      "Pacific Islands security and development",
+      "Five Eyes intelligence cooperation",
+      "Free trade access, including to China",
+      "Antarctic presence (Ross Dependency)"
+    ],
+    "economy": {
+      "gdpUsdBn": 260,
+      "gdpGrowthPct": -0.5,
+      "inflationPct": 2.9,
+      "debtPctGdp": 47,
+      "currency": "New Zealand dollar (NZD)",
+      "sectors": ["Dairy", "Meat", "Tourism", "Forestry", "Services"],
+      "topExports": ["Milk powder", "Beef & lamb", "Logs & timber", "Kiwifruit", "Butter"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 9000,
+      "nuclearWarheads": 0,
+      "capabilities": ["P-8A maritime patrol", "Anzac-class frigates", "Pacific humanitarian response"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Charles III",
+      "headOfGovernment": "Christopher Luxon",
+      "notes": "Centre-right coalition; general election due in 2026."
+    },
+    "resources": [
+      { "name": "Dairy", "note": "Largest dairy exporter in the world" },
+      { "name": "Maritime zone", "note": "One of the largest EEZs globally" }
+    ]
+  }
+]

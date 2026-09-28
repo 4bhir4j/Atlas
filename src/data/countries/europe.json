@@ -1,0 +1,634 @@
+[
+  {
+    "iso3": "GBR",
+    "iso2": "GB",
+    "name": "United Kingdom",
+    "region": "Europe",
+    "capital": "London",
+    "capitalCoords": [51.51, -0.13],
+    "population": 69.1,
+    "areaKm2": 243610,
+    "tags": ["nuclear-armed", "p5", "middle-power"],
+    "summary": "A nuclear-armed permanent Security Council member with global financial and intelligence reach. Post-Brexit, London is rebuilding ties with the EU on security, leading European support for Ukraine and investing in AUKUS.",
+    "strategicInterests": [
+      "European security and long-term support for Ukraine",
+      "AUKUS submarine and advanced-technology cooperation",
+      "Reset of trade and defence relations with the EU",
+      "Protect London's position as a global financial centre",
+      "Five Eyes intelligence partnership"
+    ],
+    "economy": {
+      "gdpUsdBn": 3644,
+      "gdpGrowthPct": 1.1,
+      "inflationPct": 2.5,
+      "debtPctGdp": 101,
+      "currency": "Pound sterling (GBP)",
+      "sectors": ["Financial services", "Professional services", "Pharmaceuticals", "Aerospace & defence", "Creative industries"],
+      "topExports": ["Financial services", "Gold", "Cars", "Pharmaceuticals", "Aircraft engines"]
+    },
+    "military": {
+      "spendUsdBn": 81.8,
+      "spendPctGdp": 2.3,
+      "activePersonnel": 141000,
+      "nuclearWarheads": 225,
+      "capabilities": ["Trident submarine-launched deterrent", "Two Queen Elizabeth-class carriers", "Global special forces", "GCAP sixth-generation fighter programme"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Charles III",
+      "headOfGovernment": "Keir Starmer",
+      "notes": "Labour government with a large majority since July 2024."
+    },
+    "resources": [
+      { "name": "North Sea oil & gas", "note": "Mature and declining basin" },
+      { "name": "Offshore wind", "note": "Second-largest installed offshore wind capacity" },
+      { "name": "Financial centre", "note": "Largest FX trading hub globally" }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "iso2": "FR",
+    "name": "France",
+    "region": "Europe",
+    "capital": "Paris",
+    "capitalCoords": [48.86, 2.35],
+    "population": 68.4,
+    "areaKm2": 643801,
+    "tags": ["nuclear-armed", "p5", "middle-power"],
+    "summary": "The EU's only nuclear power and a champion of European 'strategic autonomy'. France retains a global military footprint through overseas territories, though its role in the Sahel has collapsed and domestic politics are fragmented.",
+    "strategicInterests": [
+      "European defence autonomy and a Europeanised nuclear deterrent dialogue",
+      "Support for Ukraine and leadership of post-ceasefire security planning",
+      "Indo-Pacific presence through overseas territories",
+      "Reset of relations in Africa after the Sahel withdrawals",
+      "Energy security through nuclear power"
+    ],
+    "economy": {
+      "gdpUsdBn": 3162,
+      "gdpGrowthPct": 1.1,
+      "inflationPct": 2.3,
+      "debtPctGdp": 113,
+      "currency": "Euro (EUR)",
+      "sectors": ["Aerospace", "Luxury goods", "Nuclear energy", "Agriculture", "Tourism"],
+      "topExports": ["Aircraft & parts", "Pharmaceuticals", "Wine & spirits", "Cosmetics", "Electricity"]
+    },
+    "military": {
+      "spendUsdBn": 64.7,
+      "spendPctGdp": 2.1,
+      "activePersonnel": 202000,
+      "nuclearWarheads": 290,
+      "capabilities": ["Submarine- and air-launched nuclear deterrent", "Charles de Gaulle nuclear carrier", "Expeditionary forces", "Bases in Djibouti, UAE and Gabon"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic",
+      "headOfState": "Emmanuel Macron",
+      "headOfGovernment": "Sébastien Lecornu",
+      "notes": "Hung National Assembly since 2024; repeated government collapses over budget deficits."
+    },
+    "resources": [
+      { "name": "Nuclear power", "note": "~65–70% of electricity from 56 reactors" },
+      { "name": "Maritime domain", "note": "Second-largest exclusive economic zone in the world" },
+      { "name": "Agriculture", "note": "EU's largest agricultural producer" }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "iso2": "DE",
+    "name": "Germany",
+    "region": "Europe",
+    "capital": "Berlin",
+    "capitalCoords": [52.52, 13.4],
+    "population": 84.5,
+    "areaKm2": 357022,
+    "tags": ["middle-power"],
+    "summary": "Europe's largest economy and industrial core, now executing a historic rearmament (Zeitenwende) after exempting defence from its constitutional debt brake in 2025. Its export model is under strain from high energy costs and Chinese competition.",
+    "strategicInterests": [
+      "Build Europe's strongest conventional army",
+      "Sustain support for Ukraine as the largest European donor",
+      "De-risk from China while protecting export markets",
+      "Energy security after losing Russian pipeline gas",
+      "EU cohesion and competitiveness"
+    ],
+    "economy": {
+      "gdpUsdBn": 4660,
+      "gdpGrowthPct": -0.2,
+      "inflationPct": 2.5,
+      "debtPctGdp": 63,
+      "currency": "Euro (EUR)",
+      "sectors": ["Automotive", "Machinery", "Chemicals", "Electrical engineering", "Services"],
+      "topExports": ["Motor vehicles & parts", "Machinery", "Pharmaceuticals", "Electronics", "Chemicals"]
+    },
+    "military": {
+      "spendUsdBn": 88.5,
+      "spendPctGdp": 1.9,
+      "activePersonnel": 181000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Hosts US B61 weapons under NATO nuclear sharing", "Permanent brigade in Lithuania", "Leopard 2 and air-defence industry (IRIS-T, Patriot)"]
+    },
+    "government": {
+      "system": "Federal parliamentary republic",
+      "headOfState": "Frank-Walter Steinmeier",
+      "headOfGovernment": "Friedrich Merz",
+      "notes": "CDU/CSU–SPD coalition since May 2025."
+    },
+    "resources": [
+      { "name": "Industrial base", "note": "Mittelstand manufacturers dominate global niches" },
+      { "name": "Lignite", "note": "Main domestic energy resource, being phased out" },
+      { "name": "LNG terminals", "note": "Built rapidly after 2022 to replace Russian gas" }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "iso2": "IT",
+    "name": "Italy",
+    "region": "Europe",
+    "capital": "Rome",
+    "capitalCoords": [41.9, 12.5],
+    "population": 59.0,
+    "areaKm2": 301340,
+    "tags": ["middle-power"],
+    "summary": "The eurozone's third-largest economy and a Mediterranean pivot state. Rome focuses on migration, energy links to North Africa and a stable pro-Atlantic line under one of Europe's most durable governments.",
+    "strategicInterests": [
+      "Control irregular migration across the central Mediterranean",
+      "Energy partnerships with Algeria and Libya (Mattei Plan for Africa)",
+      "Support for Ukraine and NATO's southern flank",
+      "GCAP fighter programme with the UK and Japan"
+    ],
+    "economy": {
+      "gdpUsdBn": 2373,
+      "gdpGrowthPct": 0.7,
+      "inflationPct": 1.1,
+      "debtPctGdp": 135,
+      "currency": "Euro (EUR)",
+      "sectors": ["Manufacturing", "Machinery", "Fashion & luxury", "Food", "Tourism"],
+      "topExports": ["Machinery", "Pharmaceuticals", "Vehicles", "Fashion", "Food & wine"]
+    },
+    "military": {
+      "spendUsdBn": 38.0,
+      "spendPctGdp": 1.6,
+      "activePersonnel": 161000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Two light carriers with F-35B", "Hosts US B61 weapons under NATO nuclear sharing", "Leonardo and Fincantieri defence industry"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Sergio Mattarella",
+      "headOfGovernment": "Giorgia Meloni",
+      "notes": "Right-wing coalition since 2022."
+    },
+    "resources": [
+      { "name": "Gas hub", "note": "Pipelines from Algeria (TransMed), Azerbaijan (TAP) and Libya" },
+      { "name": "Manufacturing clusters", "note": "Second-largest manufacturer in the EU" }
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "iso2": "ES",
+    "name": "Spain",
+    "region": "Europe",
+    "capital": "Madrid",
+    "capitalCoords": [40.42, -3.7],
+    "population": 48.6,
+    "areaKm2": 505990,
+    "tags": [],
+    "summary": "One of Europe's fastest-growing large economies, a renewable-energy leader and a bridge to Latin America and the Maghreb. Spain is NATO's lowest spender relative to GDP and secured an exemption from the alliance's 5% target in 2025.",
+    "strategicInterests": [
+      "Stable relations with Morocco (migration, Ceuta and Melilla)",
+      "Latin American economic and political ties",
+      "Renewable-energy and LNG hub for Europe",
+      "Gibraltar post-Brexit arrangement with the UK"
+    ],
+    "economy": {
+      "gdpUsdBn": 1731,
+      "gdpGrowthPct": 3.2,
+      "inflationPct": 2.9,
+      "debtPctGdp": 102,
+      "currency": "Euro (EUR)",
+      "sectors": ["Tourism", "Automotive", "Agriculture", "Renewables", "Banking"],
+      "topExports": ["Vehicles", "Pharmaceuticals", "Fruit & vegetables", "Olive oil", "Machinery"]
+    },
+    "military": {
+      "spendUsdBn": 24.6,
+      "spendPctGdp": 1.4,
+      "activePersonnel": 122000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Amphibious assault ship Juan Carlos I", "Hosts US bases at Rota and Morón"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Felipe VI",
+      "headOfGovernment": "Pedro Sánchez",
+      "notes": "Minority PSOE-led coalition dependent on regional parties."
+    },
+    "resources": [
+      { "name": "Solar & wind", "note": "Renewables supply over half of electricity" },
+      { "name": "LNG regasification", "note": "Largest capacity in the EU" },
+      { "name": "Agriculture", "note": "World's largest olive oil producer" }
+    ]
+  },
+  {
+    "iso3": "POL",
+    "iso2": "PL",
+    "name": "Poland",
+    "region": "Europe",
+    "capital": "Warsaw",
+    "capitalCoords": [52.23, 21.01],
+    "population": 37.5,
+    "areaKm2": 312696,
+    "tags": ["middle-power"],
+    "summary": "NATO's frontline state and the alliance's highest spender relative to GDP. Poland is building one of Europe's largest land armies and serves as the main logistics hub for Western aid to Ukraine.",
+    "strategicInterests": [
+      "Deter Russia and Belarus (East Shield border fortifications)",
+      "Permanent US troop presence",
+      "Ukraine's survival and a role in its reconstruction",
+      "Energy independence: Baltic Pipe, LNG and first nuclear plant"
+    ],
+    "economy": {
+      "gdpUsdBn": 915,
+      "gdpGrowthPct": 2.9,
+      "inflationPct": 3.7,
+      "debtPctGdp": 55,
+      "currency": "Złoty (PLN)",
+      "sectors": ["Manufacturing", "Services", "Logistics", "Agriculture", "Mining"],
+      "topExports": ["Vehicles & parts", "Electrical machinery", "Furniture", "Food products", "Batteries"]
+    },
+    "military": {
+      "spendUsdBn": 38.0,
+      "spendPctGdp": 4.2,
+      "activePersonnel": 206000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Large K2 and Abrams tank orders", "HIMARS/K239 rocket artillery", "Patriot air defence", "Territorial Defence Force"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Karol Nawrocki",
+      "headOfGovernment": "Donald Tusk",
+      "notes": "Cohabitation between a Law and Justice-backed president (since August 2025) and Tusk's centrist coalition."
+    },
+    "resources": [
+      { "name": "Coal", "note": "Still the largest source of electricity" },
+      { "name": "Copper & silver", "note": "KGHM is a top-10 copper and top silver producer" },
+      { "name": "Logistics corridor", "note": "Rzeszów hub for military aid to Ukraine" }
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "iso2": "UA",
+    "name": "Ukraine",
+    "region": "Europe",
+    "capital": "Kyiv",
+    "capitalCoords": [50.45, 30.52],
+    "population": 37.9,
+    "areaKm2": 603550,
+    "tags": ["active-conflict", "critical-minerals"],
+    "summary": "Fighting for survival since Russia's full-scale invasion in February 2022, with roughly a fifth of its territory occupied. Ukraine has become a world leader in drone warfare and depends on Western financial and military aid.",
+    "strategicInterests": [
+      "Territorial integrity and a just, durable peace",
+      "Binding security guarantees from Western partners",
+      "EU accession (candidate status since 2022)",
+      "Sustained military aid and a domestic defence industry",
+      "Reconstruction financing, including frozen Russian assets"
+    ],
+    "economy": {
+      "gdpUsdBn": 190,
+      "gdpGrowthPct": 2.9,
+      "inflationPct": 6.5,
+      "debtPctGdp": 91,
+      "currency": "Hryvnia (UAH)",
+      "sectors": ["Agriculture", "Metallurgy", "Defence production", "IT services"],
+      "topExports": ["Corn", "Sunflower oil", "Wheat", "Iron ore", "Soybeans"]
+    },
+    "military": {
+      "spendUsdBn": 64.7,
+      "spendPctGdp": 34.0,
+      "activePersonnel": 880000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Mass-produced FPV and long-range strike drones", "Naval drones that pushed Russia's fleet from the western Black Sea", "Western air defence, F-16 and Mirage fighters"]
+    },
+    "government": {
+      "system": "Unitary semi-presidential republic (martial law)",
+      "headOfState": "Volodymyr Zelensky",
+      "headOfGovernment": "Yulia Svyrydenko",
+      "notes": "Elections suspended under martial law since 2022."
+    },
+    "resources": [
+      { "name": "Black-earth farmland", "note": "Major exporter of grain and sunflower oil" },
+      { "name": "Iron ore & titanium", "note": "Significant reserves; some in occupied or frontline areas" },
+      { "name": "Lithium, graphite & rare earths", "note": "Subject of the 2025 US–Ukraine minerals and reconstruction fund agreement" }
+    ]
+  },
+  {
+    "iso3": "NOR",
+    "iso2": "NO",
+    "name": "Norway",
+    "region": "Europe",
+    "capital": "Oslo",
+    "capitalCoords": [59.91, 10.75],
+    "population": 5.6,
+    "areaKm2": 385207,
+    "tags": ["energy-exporter"],
+    "summary": "Europe's largest gas supplier since the cut-off of Russian pipeline flows, and custodian of the world's largest sovereign wealth fund. A key NATO state in the High North bordering Russia's Kola Peninsula.",
+    "strategicInterests": [
+      "Arctic and High North security near Russia's Northern Fleet",
+      "Reliable energy supply to Europe",
+      "Svalbard sovereignty and fisheries management",
+      "Long-term stewardship of its sovereign wealth fund"
+    ],
+    "economy": {
+      "gdpUsdBn": 483,
+      "gdpGrowthPct": 2.1,
+      "inflationPct": 3.1,
+      "debtPctGdp": 43,
+      "currency": "Norwegian krone (NOK)",
+      "sectors": ["Oil & gas", "Shipping", "Seafood", "Hydropower", "Aluminium"],
+      "topExports": ["Natural gas", "Crude oil", "Fish (salmon)", "Aluminium", "Refined petroleum"]
+    },
+    "military": {
+      "spendUsdBn": 10.3,
+      "spendPctGdp": 2.1,
+      "activePersonnel": 25400,
+      "nuclearWarheads": 0,
+      "capabilities": ["P-8 maritime patrol aircraft", "F-35A fleet", "NASAMS air defence", "Arctic warfare expertise"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Harald V",
+      "headOfGovernment": "Jonas Gahr Støre",
+      "notes": "Labour re-elected in September 2025."
+    },
+    "resources": [
+      { "name": "North Sea gas", "note": "~30% of EU+UK gas imports" },
+      { "name": "Sovereign wealth fund", "note": "Government Pension Fund Global — roughly $1.8 trillion" },
+      { "name": "Hydropower", "note": "~90% of domestic electricity" }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "iso2": "SE",
+    "name": "Sweden",
+    "region": "Europe",
+    "capital": "Stockholm",
+    "capitalCoords": [59.33, 18.07],
+    "population": 10.6,
+    "areaKm2": 450295,
+    "tags": ["critical-minerals"],
+    "summary": "Ended two centuries of military non-alignment by joining NATO in March 2024. Sweden brings a sophisticated defence industry and control of Gotland, a key position for Baltic Sea security.",
+    "strategicInterests": [
+      "Baltic Sea security and Gotland's defence",
+      "NATO integration and Nordic defence cooperation",
+      "Protect undersea cables and critical infrastructure",
+      "Develop Europe's largest known rare-earth deposit (Kiruna)"
+    ],
+    "economy": {
+      "gdpUsdBn": 610,
+      "gdpGrowthPct": 1.0,
+      "inflationPct": 2.0,
+      "debtPctGdp": 34,
+      "currency": "Swedish krona (SEK)",
+      "sectors": ["Engineering", "Telecoms", "Forestry", "Mining", "Defence"],
+      "topExports": ["Machinery", "Vehicles", "Pharmaceuticals", "Paper & wood", "Iron ore"]
+    },
+    "military": {
+      "spendUsdBn": 12.0,
+      "spendPctGdp": 2.0,
+      "activePersonnel": 24000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Gripen fighters", "Advanced conventional submarines", "Total-defence and conscription model"]
+    },
+    "government": {
+      "system": "Unitary parliamentary constitutional monarchy",
+      "headOfState": "King Carl XVI Gustaf",
+      "headOfGovernment": "Ulf Kristersson",
+      "notes": "Centre-right minority government; general election due September 2026."
+    },
+    "resources": [
+      { "name": "Iron ore", "note": "LKAB produces most of the EU's iron ore" },
+      { "name": "Rare earths", "note": "Per Geijer deposit near Kiruna" },
+      { "name": "Forests", "note": "Major pulp, paper and timber exporter" }
+    ]
+  },
+  {
+    "iso3": "FIN",
+    "iso2": "FI",
+    "name": "Finland",
+    "region": "Europe",
+    "capital": "Helsinki",
+    "capitalCoords": [60.17, 24.94],
+    "population": 5.6,
+    "areaKm2": 338455,
+    "tags": ["critical-minerals"],
+    "summary": "Joined NATO in April 2023, doubling the alliance's land border with Russia. Finland's total-defence model and large trained reserve make it one of Europe's most capable militaries for its size.",
+    "strategicInterests": [
+      "Secure the 1,340 km Russian border (closed since 2023)",
+      "NATO forward land forces presence",
+      "Baltic Sea and Arctic security",
+      "Battery-mineral value chains"
+    ],
+    "economy": {
+      "gdpUsdBn": 300,
+      "gdpGrowthPct": 0.4,
+      "inflationPct": 1.6,
+      "debtPctGdp": 82,
+      "currency": "Euro (EUR)",
+      "sectors": ["Forestry", "Technology", "Metals", "Machinery"],
+      "topExports": ["Paper & pulp", "Machinery", "Stainless steel", "Refined petroleum", "Electronics"]
+    },
+    "military": {
+      "spendUsdBn": 7.3,
+      "spendPctGdp": 2.4,
+      "activePersonnel": 24000,
+      "nuclearWarheads": 0,
+      "capabilities": ["~280,000 wartime strength", "Largest artillery force in Western Europe", "F-35A on order"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Alexander Stubb",
+      "headOfGovernment": "Petteri Orpo",
+      "notes": "President leads foreign and security policy together with the government."
+    },
+    "resources": [
+      { "name": "Forests", "note": "Covers ~75% of land area" },
+      { "name": "Nickel & cobalt", "note": "Europe's leading battery-mineral producer" },
+      { "name": "Nuclear power", "note": "Olkiluoto 3 is Europe's largest reactor" }
+    ]
+  },
+  {
+    "iso3": "GRC",
+    "iso2": "GR",
+    "name": "Greece",
+    "region": "Europe",
+    "capital": "Athens",
+    "capitalCoords": [37.98, 23.73],
+    "population": 10.3,
+    "areaKm2": 131957,
+    "tags": [],
+    "summary": "A maritime power with the world's largest merchant fleet by tonnage, anchored in NATO and the EU. Long-running disputes with Turkey over the Aegean and Cyprus shape its high defence spending.",
+    "strategicInterests": [
+      "Aegean sovereignty and maritime boundaries with Turkey",
+      "Cyprus reunification on UN terms",
+      "Eastern Mediterranean energy corridors",
+      "Migration management on the EU's external border"
+    ],
+    "economy": {
+      "gdpUsdBn": 257,
+      "gdpGrowthPct": 2.3,
+      "inflationPct": 3.0,
+      "debtPctGdp": 154,
+      "currency": "Euro (EUR)",
+      "sectors": ["Shipping", "Tourism", "Agriculture", "Energy"],
+      "topExports": ["Refined petroleum", "Pharmaceuticals", "Aluminium", "Olive oil", "Fruit"]
+    },
+    "military": {
+      "spendUsdBn": 8.1,
+      "spendPctGdp": 3.1,
+      "activePersonnel": 132000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Rafale and F-35 procurement", "FDI frigates from France", "Large submarine fleet"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Konstantinos Tasoulas",
+      "headOfGovernment": "Kyriakos Mitsotakis",
+      "notes": "New Democracy single-party government."
+    },
+    "resources": [
+      { "name": "Merchant fleet", "note": "Greek owners control ~20% of global tonnage" },
+      { "name": "Piraeus port", "note": "Majority-owned by China's COSCO" }
+    ]
+  },
+  {
+    "iso3": "SRB",
+    "iso2": "RS",
+    "name": "Serbia",
+    "region": "Europe",
+    "capital": "Belgrade",
+    "capitalCoords": [44.79, 20.45],
+    "population": 6.6,
+    "areaKm2": 77474,
+    "tags": ["critical-minerals"],
+    "summary": "An EU candidate that balances between Brussels, Moscow and Beijing while refusing to recognise Kosovo. Mass anti-corruption protests since late 2024 have challenged the governing party.",
+    "strategicInterests": [
+      "Non-recognition of Kosovo's independence",
+      "Military neutrality and diversified arms suppliers",
+      "EU accession without sanctioning Russia",
+      "Chinese investment and development of the Jadar lithium deposit"
+    ],
+    "economy": {
+      "gdpUsdBn": 82,
+      "gdpGrowthPct": 3.9,
+      "inflationPct": 4.6,
+      "debtPctGdp": 47,
+      "currency": "Serbian dinar (RSD)",
+      "sectors": ["Manufacturing", "Mining", "Agriculture", "IT services"],
+      "topExports": ["Electrical equipment", "Copper", "Tyres", "Fruit", "Iron & steel"]
+    },
+    "military": {
+      "spendUsdBn": 2.0,
+      "spendPctGdp": 2.4,
+      "activePersonnel": 28000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Rafale fighters ordered from France", "Chinese FK-3 air defence and drones", "Russian MiG-29s"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Aleksandar Vučić",
+      "headOfGovernment": "Đuro Macut",
+      "notes": "Vučić's Serbian Progressive Party has dominated since 2012."
+    },
+    "resources": [
+      { "name": "Lithium", "note": "Jadar project (Rio Tinto) — one of Europe's largest deposits" },
+      { "name": "Copper", "note": "Bor and Majdanpek mines operated by China's Zijin" }
+    ]
+  },
+  {
+    "iso3": "HUN",
+    "iso2": "HU",
+    "name": "Hungary",
+    "region": "Europe",
+    "capital": "Budapest",
+    "capitalCoords": [47.5, 19.04],
+    "population": 9.6,
+    "areaKm2": 93028,
+    "tags": [],
+    "summary": "An EU and NATO member whose government maintains close energy ties with Russia and courts Chinese investment, frequently using its veto to block or slow EU decisions on Ukraine.",
+    "strategicInterests": [
+      "Continued access to Russian oil, gas and nuclear technology",
+      "Chinese EV and battery investment (BYD, CATL)",
+      "National sovereignty within the EU",
+      "Protection of ethnic Hungarian minorities abroad"
+    ],
+    "economy": {
+      "gdpUsdBn": 222,
+      "gdpGrowthPct": 0.5,
+      "inflationPct": 3.7,
+      "debtPctGdp": 74,
+      "currency": "Forint (HUF)",
+      "sectors": ["Automotive", "Batteries", "Electronics", "Agriculture"],
+      "topExports": ["Vehicles & parts", "Batteries", "Electronics", "Pharmaceuticals", "Machinery"]
+    },
+    "military": {
+      "spendUsdBn": 4.7,
+      "spendPctGdp": 2.1,
+      "activePersonnel": 22700,
+      "nuclearWarheads": 0,
+      "capabilities": ["Leopard 2A7 modernisation", "Gripen fighters"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic",
+      "headOfState": "Tamás Sulyok",
+      "headOfGovernment": "Viktor Orbán",
+      "notes": "Fidesz in power since 2010; parliamentary election due April 2026."
+    },
+    "resources": [
+      { "name": "Paks nuclear plant", "note": "Expansion (Paks II) being built by Rosatom" },
+      { "name": "Battery manufacturing", "note": "Among Europe's largest battery-cell hubs" }
+    ]
+  },
+  {
+    "iso3": "TUR",
+    "iso2": "TR",
+    "name": "Turkey",
+    "region": "Europe",
+    "capital": "Ankara",
+    "capitalCoords": [39.93, 32.86],
+    "population": 87.5,
+    "areaKm2": 783562,
+    "tags": ["middle-power", "chokepoint"],
+    "summary": "A NATO member with the alliance's second-largest army that pursues an assertive, independent foreign policy across the Middle East, Caucasus, Black Sea and Africa. It controls the Turkish Straits and has become a major drone exporter.",
+    "strategicInterests": [
+      "Control of the Bosporus and Dardanelles under the Montreux Convention",
+      "Neutralise the PKK (disarmament process launched in 2025) and shape post-Assad Syria",
+      "Energy-hub ambitions and Black Sea gas",
+      "Defence-industrial self-sufficiency and exports",
+      "Mediation role between Russia and Ukraine"
+    ],
+    "economy": {
+      "gdpUsdBn": 1323,
+      "gdpGrowthPct": 3.2,
+      "inflationPct": 58.5,
+      "debtPctGdp": 25,
+      "currency": "Turkish lira (TRY)",
+      "sectors": ["Manufacturing", "Construction", "Textiles", "Tourism", "Defence"],
+      "topExports": ["Vehicles", "Machinery", "Textiles & apparel", "Steel", "Jewellery & gold"]
+    },
+    "military": {
+      "spendUsdBn": 25.0,
+      "spendPctGdp": 1.9,
+      "activePersonnel": 355000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Bayraktar TB2/Akinci drones", "TCG Anadolu drone carrier", "KAAN fighter programme", "Bases in Qatar, Somalia and northern Iraq/Syria"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Recep Tayyip Erdoğan",
+      "headOfGovernment": "Recep Tayyip Erdoğan",
+      "notes": "Executive presidency since 2018; main opposition figure Ekrem İmamoğlu jailed in 2025."
+    },
+    "resources": [
+      { "name": "Turkish Straits", "note": "Only maritime link between the Black Sea and the Mediterranean" },
+      { "name": "Boron", "note": "~70% of global reserves" },
+      { "name": "Sakarya gas field", "note": "Black Sea discovery producing since 2023" },
+      { "name": "Tigris–Euphrates headwaters", "note": "Upstream dams give leverage over Syria and Iraq" }
+    ]
+  }
+]

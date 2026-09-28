@@ -1,0 +1,500 @@
+[
+  {
+    "iso3": "USA",
+    "iso2": "US",
+    "name": "United States",
+    "region": "North America",
+    "capital": "Washington, D.C.",
+    "capitalCoords": [38.9, -77.04],
+    "population": 340.1,
+    "areaKm2": 9833520,
+    "tags": ["great-power", "nuclear-armed", "p5", "energy-exporter"],
+    "summary": "The world's largest economy and pre-eminent military power, with a global network of treaty allies and bases. US strategy centres on competition with China, energy and technology leadership, and a more transactional, tariff-driven approach to trade and alliance burden-sharing.",
+    "strategicInterests": [
+      "Maintain military and technological primacy over China, especially in semiconductors and AI",
+      "Preserve deterrence in the Indo-Pacific (Taiwan Strait, South China Sea, Korean Peninsula)",
+      "Reshore strategic manufacturing and use tariffs as leverage in trade negotiations",
+      "Energy dominance as the world's largest oil and gas producer",
+      "Western Hemisphere security: migration, narcotics trafficking and Venezuela"
+    ],
+    "economy": {
+      "gdpUsdBn": 29185,
+      "gdpGrowthPct": 2.8,
+      "inflationPct": 3.0,
+      "debtPctGdp": 121,
+      "currency": "US dollar (USD)",
+      "sectors": ["Services & finance", "Technology", "Energy", "Advanced manufacturing", "Agriculture"],
+      "topExports": ["Refined petroleum & crude oil", "LNG", "Aircraft & parts", "Integrated circuits", "Pharmaceuticals"]
+    },
+    "military": {
+      "spendUsdBn": 997,
+      "spendPctGdp": 3.4,
+      "activePersonnel": 1315000,
+      "nuclearWarheads": 5177,
+      "capabilities": ["11 nuclear-powered aircraft carriers", "Nuclear triad", "~750 overseas military sites", "Space Force & Cyber Command", "Global airlift and logistics"]
+    },
+    "government": {
+      "system": "Federal presidential constitutional republic",
+      "headOfState": "Donald Trump",
+      "headOfGovernment": "Donald Trump",
+      "notes": "Bicameral Congress; Republican control of both chambers after the 2024 election."
+    },
+    "resources": [
+      { "name": "Shale oil & gas", "note": "Largest producer of both crude oil and natural gas; top LNG exporter" },
+      { "name": "Farmland", "note": "Leading exporter of soybeans, corn and wheat" },
+      { "name": "Rare earths", "note": "Mountain Pass mine; processing capacity being rebuilt with federal support" },
+      { "name": "Lithium & copper", "note": "Large undeveloped deposits (Thacker Pass, Resolution Copper)" }
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "iso2": "CA",
+    "name": "Canada",
+    "region": "North America",
+    "capital": "Ottawa",
+    "capitalCoords": [45.42, -75.7],
+    "population": 41.3,
+    "areaKm2": 9984670,
+    "tags": ["energy-exporter", "critical-minerals", "middle-power"],
+    "summary": "A resource superpower tightly integrated with the US economy — roughly three-quarters of its exports go south. US tariffs and annexation rhetoric in 2025 pushed Ottawa to diversify trade, accelerate defence spending and assert Arctic sovereignty.",
+    "strategicInterests": [
+      "Reduce dependence on the US market and secure the 2026 USMCA review",
+      "Arctic sovereignty, including the Northwest Passage",
+      "NORAD modernisation and reaching the NATO 2% target",
+      "Build critical-mineral supply chains with allies"
+    ],
+    "economy": {
+      "gdpUsdBn": 2214,
+      "gdpGrowthPct": 1.5,
+      "inflationPct": 2.4,
+      "debtPctGdp": 110,
+      "currency": "Canadian dollar (CAD)",
+      "sectors": ["Energy", "Mining", "Financial services", "Automotive", "Agriculture"],
+      "topExports": ["Crude oil", "Motor vehicles", "Natural gas", "Gold", "Potash"]
+    },
+    "military": {
+      "spendUsdBn": 29.3,
+      "spendPctGdp": 1.3,
+      "activePersonnel": 63500,
+      "nuclearWarheads": 0,
+      "capabilities": ["NORAD partner", "F-35A procurement", "River-class destroyer programme", "Arctic patrol ships"]
+    },
+    "government": {
+      "system": "Federal parliamentary constitutional monarchy",
+      "headOfState": "King Charles III",
+      "headOfGovernment": "Mark Carney",
+      "notes": "Liberal minority government since the April 2025 election."
+    },
+    "resources": [
+      { "name": "Oil sands", "note": "Third-largest proven oil reserves globally" },
+      { "name": "Potash", "note": "World's largest producer" },
+      { "name": "Uranium", "note": "Athabasca Basin — among the highest-grade deposits in the world" },
+      { "name": "Critical minerals", "note": "Nickel, cobalt, graphite and lithium" },
+      { "name": "Freshwater", "note": "Around 7% of the world's renewable freshwater" }
+    ]
+  },
+  {
+    "iso3": "MEX",
+    "iso2": "MX",
+    "name": "Mexico",
+    "region": "Latin America",
+    "capital": "Mexico City",
+    "capitalCoords": [19.43, -99.13],
+    "population": 130.9,
+    "areaKm2": 1964375,
+    "tags": ["middle-power", "energy-exporter"],
+    "summary": "The United States' largest trading partner and a key beneficiary of nearshoring. Mexico's agenda is dominated by managing Washington — tariffs, migration and cartel violence — while defending its economic model ahead of the USMCA review.",
+    "strategicInterests": [
+      "Protect USMCA market access and attract nearshoring investment",
+      "Contain cartel violence while limiting unilateral US security action",
+      "Manage northbound migration flows",
+      "Revive state energy champions (Pemex, CFE)"
+    ],
+    "economy": {
+      "gdpUsdBn": 1852,
+      "gdpGrowthPct": 1.5,
+      "inflationPct": 4.7,
+      "debtPctGdp": 58,
+      "currency": "Mexican peso (MXN)",
+      "sectors": ["Manufacturing", "Automotive", "Services", "Oil", "Tourism"],
+      "topExports": ["Motor vehicles & parts", "Computers", "Crude oil", "Electrical equipment", "Agricultural produce"]
+    },
+    "military": {
+      "spendUsdBn": 16.7,
+      "spendPctGdp": 0.9,
+      "activePersonnel": 216000,
+      "nuclearWarheads": 0,
+      "capabilities": ["National Guard under army control", "Internal security focus", "Coast guard and naval patrols"]
+    },
+    "government": {
+      "system": "Federal presidential republic",
+      "headOfState": "Claudia Sheinbaum",
+      "headOfGovernment": "Claudia Sheinbaum",
+      "notes": "Morena holds a supermajority in Congress; 2024 judicial reform introduced elected judges."
+    },
+    "resources": [
+      { "name": "Silver", "note": "World's largest producer" },
+      { "name": "Oil", "note": "State-controlled via Pemex; output in long decline" },
+      { "name": "Lithium", "note": "Nationalised in 2022" },
+      { "name": "Manufacturing corridors", "note": "Border and Bajío industrial clusters integrated with US supply chains" }
+    ]
+  },
+  {
+    "iso3": "BRA",
+    "iso2": "BR",
+    "name": "Brazil",
+    "region": "Latin America",
+    "capital": "Brasília",
+    "capitalCoords": [-15.79, -47.88],
+    "population": 211.9,
+    "areaKm2": 8515767,
+    "tags": ["middle-power", "energy-exporter", "critical-minerals"],
+    "summary": "Latin America's largest economy and an agricultural superpower that positions itself as a leader of the Global South. Brazil pursues strategic autonomy through BRICS while remaining a pivotal voice on climate, hosting COP30 in Belém in 2025.",
+    "strategicInterests": [
+      "Leadership of the Global South and reform of global governance (UNSC seat)",
+      "Amazon protection and climate diplomacy",
+      "Expand agricultural and energy exports, especially to Asia",
+      "Regional integration via Mercosur, including the EU–Mercosur agreement"
+    ],
+    "economy": {
+      "gdpUsdBn": 2171,
+      "gdpGrowthPct": 3.4,
+      "inflationPct": 4.4,
+      "debtPctGdp": 87,
+      "currency": "Brazilian real (BRL)",
+      "sectors": ["Agribusiness", "Mining", "Oil & gas", "Services", "Manufacturing"],
+      "topExports": ["Soybeans", "Crude oil", "Iron ore", "Sugar", "Coffee & beef"]
+    },
+    "military": {
+      "spendUsdBn": 20.9,
+      "spendPctGdp": 1.0,
+      "activePersonnel": 366500,
+      "nuclearWarheads": 0,
+      "capabilities": ["Largest armed forces in Latin America", "Conventionally armed nuclear-powered submarine programme (PROSUB)", "Gripen fighter co-production"]
+    },
+    "government": {
+      "system": "Federal presidential republic",
+      "headOfState": "Luiz Inácio Lula da Silva",
+      "headOfGovernment": "Luiz Inácio Lula da Silva",
+      "notes": "Fragmented Congress; general election due October 2026."
+    },
+    "resources": [
+      { "name": "Pre-salt oil", "note": "Deep-water fields make Brazil a top-10 crude producer" },
+      { "name": "Iron ore", "note": "Second-largest exporter (Vale)" },
+      { "name": "Niobium", "note": "Around 90% of world supply" },
+      { "name": "Rare earths", "note": "Among the largest reserves outside China" },
+      { "name": "Amazon rainforest", "note": "Largest tropical forest; central to climate negotiations" }
+    ]
+  },
+  {
+    "iso3": "ARG",
+    "iso2": "AR",
+    "name": "Argentina",
+    "region": "Latin America",
+    "capital": "Buenos Aires",
+    "capitalCoords": [-34.6, -58.38],
+    "population": 45.7,
+    "areaKm2": 2780400,
+    "tags": ["energy-exporter", "critical-minerals"],
+    "summary": "A resource-rich economy undergoing radical libertarian shock therapy under President Milei, who has aligned Buenos Aires closely with Washington. Inflation has fallen sharply from triple digits, backed by a new IMF programme and US financial support.",
+    "strategicInterests": [
+      "Macroeconomic stabilisation and a return to international capital markets",
+      "Develop Vaca Muerta shale and lithium for export",
+      "Close alignment with the United States and Israel",
+      "Sovereignty claim over the Falklands/Malvinas"
+    ],
+    "economy": {
+      "gdpUsdBn": 633,
+      "gdpGrowthPct": -1.3,
+      "inflationPct": 219.9,
+      "debtPctGdp": 83,
+      "currency": "Argentine peso (ARS)",
+      "sectors": ["Agribusiness", "Energy", "Mining", "Manufacturing", "Services"],
+      "topExports": ["Soybean meal & oil", "Corn", "Wheat", "Crude oil", "Beef"]
+    },
+    "military": {
+      "spendUsdBn": 3.5,
+      "spendPctGdp": 0.6,
+      "activePersonnel": 72100,
+      "nuclearWarheads": 0,
+      "capabilities": ["F-16 fighters acquired from Denmark (2024)", "Antarctic logistics", "Civil nuclear industry (INVAP)"]
+    },
+    "government": {
+      "system": "Federal presidential republic",
+      "headOfState": "Javier Milei",
+      "headOfGovernment": "Javier Milei",
+      "notes": "Milei's party strengthened its position in the October 2025 midterm elections."
+    },
+    "resources": [
+      { "name": "Vaca Muerta shale", "note": "Second-largest shale gas and fourth-largest shale oil resources" },
+      { "name": "Lithium", "note": "Part of the Lithium Triangle with Chile and Bolivia" },
+      { "name": "Pampas farmland", "note": "Top exporter of soybean meal and oil" }
+    ]
+  },
+  {
+    "iso3": "CHL",
+    "iso2": "CL",
+    "name": "Chile",
+    "region": "Latin America",
+    "capital": "Santiago",
+    "capitalCoords": [-33.45, -70.67],
+    "population": 19.8,
+    "areaKm2": 756102,
+    "tags": ["critical-minerals"],
+    "summary": "The world's largest copper producer and a major lithium supplier, making it central to the energy transition. A stable, open economy with dense trade links to China and the Pacific.",
+    "strategicInterests": [
+      "Capture more value from copper and lithium (national lithium strategy)",
+      "Pacific trade diversification (CPTPP, China, US)",
+      "Antarctic territorial claim and southern maritime routes"
+    ],
+    "economy": {
+      "gdpUsdBn": 330,
+      "gdpGrowthPct": 2.6,
+      "inflationPct": 3.9,
+      "debtPctGdp": 42,
+      "currency": "Chilean peso (CLP)",
+      "sectors": ["Mining", "Agriculture & fisheries", "Services", "Forestry"],
+      "topExports": ["Copper ore & cathodes", "Lithium carbonate", "Fruit", "Salmon", "Wood pulp"]
+    },
+    "military": {
+      "spendUsdBn": 5.5,
+      "spendPctGdp": 1.6,
+      "activePersonnel": 68500,
+      "nuclearWarheads": 0,
+      "capabilities": ["Modern navy", "F-16 fleet", "Antarctic presence"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Gabriel Boric",
+      "headOfGovernment": "Gabriel Boric",
+      "notes": "Presidential election held late 2025; new administration takes office March 2026."
+    },
+    "resources": [
+      { "name": "Copper", "note": "Roughly a quarter of world mine output" },
+      { "name": "Lithium", "note": "Second-largest producer (Atacama salt flat)" },
+      { "name": "Fisheries & fruit", "note": "Leading exporter of salmon and cherries" }
+    ]
+  },
+  {
+    "iso3": "COL",
+    "iso2": "CO",
+    "name": "Colombia",
+    "region": "Latin America",
+    "capital": "Bogotá",
+    "capitalCoords": [4.71, -74.07],
+    "population": 52.9,
+    "areaKm2": 1141748,
+    "tags": ["energy-exporter"],
+    "summary": "A long-standing US security partner whose left-wing government has pursued 'total peace' talks with armed groups while clashing with Washington over drug policy and migration. Coca cultivation and armed-group violence remain high.",
+    "strategicInterests": [
+      "Negotiated settlements with ELN and FARC dissident groups",
+      "Rethink counter-narcotics policy",
+      "Manage the Venezuelan border and migrant population",
+      "Energy transition away from oil and coal"
+    ],
+    "economy": {
+      "gdpUsdBn": 418,
+      "gdpGrowthPct": 1.7,
+      "inflationPct": 6.6,
+      "debtPctGdp": 55,
+      "currency": "Colombian peso (COP)",
+      "sectors": ["Oil & mining", "Agriculture", "Services", "Manufacturing"],
+      "topExports": ["Crude oil", "Coal", "Coffee", "Gold", "Cut flowers"]
+    },
+    "military": {
+      "spendUsdBn": 10.5,
+      "spendPctGdp": 2.5,
+      "activePersonnel": 250000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Extensive counter-insurgency experience", "NATO global partner", "Gripen fighter purchase (2025)"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "Gustavo Petro",
+      "headOfGovernment": "Gustavo Petro",
+      "notes": "Presidential election due May 2026; Petro is term-limited."
+    },
+    "resources": [
+      { "name": "Oil & coal", "note": "Largest export earners" },
+      { "name": "Coffee", "note": "Third-largest producer" },
+      { "name": "Emeralds & gold", "note": "Significant artisanal and illegal mining" },
+      { "name": "Biodiversity", "note": "Second most biodiverse country" }
+    ]
+  },
+  {
+    "iso3": "VEN",
+    "iso2": "VE",
+    "name": "Venezuela",
+    "region": "Latin America",
+    "capital": "Caracas",
+    "capitalCoords": [10.49, -66.88],
+    "population": 28.4,
+    "areaKm2": 916445,
+    "tags": ["energy-exporter", "sanctioned"],
+    "summary": "Holder of the world's largest proven oil reserves, hollowed out by economic collapse, sanctions and emigration of nearly 8 million people. The disputed 2024 election deepened isolation, and a large US naval build-up in the Caribbean in late 2025 sharply escalated tensions.",
+    "strategicInterests": [
+      "Regime survival under US pressure and sanctions",
+      "Sustain oil exports via licences and shadow-fleet sales to Asia",
+      "Assert the claim to Guyana's Essequibo region",
+      "Security and economic ties with Russia, China, Iran and Cuba"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": null,
+      "inflationPct": 48.0,
+      "debtPctGdp": null,
+      "currency": "Bolívar (VES); widespread dollarisation",
+      "sectors": ["Oil", "Mining", "Informal economy"],
+      "topExports": ["Crude oil", "Refined petroleum", "Gold", "Iron & steel"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 123000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Russian-supplied Su-30 fighters and S-300 air defences", "Bolivarian Militia", "Internal security role"]
+    },
+    "government": {
+      "system": "Presidential republic (authoritarian)",
+      "headOfState": "Nicolás Maduro",
+      "headOfGovernment": "Nicolás Maduro",
+      "notes": "The July 2024 election result is disputed; the opposition and many governments say Edmundo González won."
+    },
+    "resources": [
+      { "name": "Oil", "note": "~300 billion barrels of proven reserves, mostly extra-heavy Orinoco crude" },
+      { "name": "Natural gas", "note": "Largest reserves in Latin America" },
+      { "name": "Gold & coltan", "note": "Orinoco Mining Arc, much of it informal or illicit" }
+    ]
+  },
+  {
+    "iso3": "CUB",
+    "iso2": "CU",
+    "name": "Cuba",
+    "region": "Latin America",
+    "capital": "Havana",
+    "capitalCoords": [23.11, -82.37],
+    "population": 10.9,
+    "areaKm2": 109884,
+    "tags": ["sanctioned"],
+    "summary": "A one-party communist state in deep economic crisis, marked by repeated nationwide blackouts, food shortages and mass emigration. It remains under a comprehensive US embargo and relies on Russia, China, Venezuela and Mexico for fuel and credit.",
+    "strategicInterests": [
+      "Regime continuity and economic survival",
+      "Secure fuel supplies and restore the electrical grid",
+      "Easing of the US embargo and removal from the state-sponsors-of-terrorism list",
+      "Deepen ties with Russia and China"
+    ],
+    "economy": {
+      "gdpUsdBn": null,
+      "gdpGrowthPct": -1.1,
+      "inflationPct": 25.0,
+      "debtPctGdp": null,
+      "currency": "Cuban peso (CUP)",
+      "sectors": ["Tourism", "Professional services abroad", "Nickel", "Tobacco & sugar"],
+      "topExports": ["Nickel & cobalt", "Medical services", "Tobacco", "Sugar", "Rum"]
+    },
+    "military": {
+      "spendUsdBn": null,
+      "spendPctGdp": null,
+      "activePersonnel": 49000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Ageing Soviet-era equipment", "Intelligence ties with Russia and China"]
+    },
+    "government": {
+      "system": "Unitary Marxist–Leninist one-party state",
+      "headOfState": "Miguel Díaz-Canel",
+      "headOfGovernment": "Manuel Marrero Cruz",
+      "notes": "Communist Party of Cuba is constitutionally the leading force of state and society."
+    },
+    "resources": [
+      { "name": "Nickel & cobalt", "note": "Among the largest nickel reserves; Sherritt joint venture" },
+      { "name": "Tourism", "note": "Leading hard-currency earner, still below pre-pandemic levels" }
+    ]
+  },
+  {
+    "iso3": "PER",
+    "iso2": "PE",
+    "name": "Peru",
+    "region": "Latin America",
+    "capital": "Lima",
+    "capitalCoords": [-12.05, -77.04],
+    "population": 34.2,
+    "areaKm2": 1285216,
+    "tags": ["critical-minerals"],
+    "summary": "A major copper, silver and gold producer with chronically unstable politics — it has had seven presidents since 2016. The Chinese-built Chancay megaport, opened in 2024, is reshaping South American–Asian trade routes.",
+    "strategicInterests": [
+      "Expand mining output and investment",
+      "Leverage Chancay port as a Pacific logistics hub",
+      "Restore political stability ahead of the 2026 elections"
+    ],
+    "economy": {
+      "gdpUsdBn": 289,
+      "gdpGrowthPct": 3.3,
+      "inflationPct": 2.4,
+      "debtPctGdp": 33,
+      "currency": "Sol (PEN)",
+      "sectors": ["Mining", "Agriculture & fisheries", "Services", "Manufacturing"],
+      "topExports": ["Copper ore", "Gold", "Zinc", "Fishmeal", "Blueberries & avocados"]
+    },
+    "military": {
+      "spendUsdBn": 2.8,
+      "spendPctGdp": 1.0,
+      "activePersonnel": 81000,
+      "nuclearWarheads": 0,
+      "capabilities": ["Counter-insurgency in the VRAEM valley", "Naval shipbuilding (SIMA)"]
+    },
+    "government": {
+      "system": "Unitary presidential republic",
+      "headOfState": "José Jerí",
+      "headOfGovernment": "José Jerí",
+      "notes": "Became president in October 2025 after Congress removed Dina Boluarte; general election due April 2026."
+    },
+    "resources": [
+      { "name": "Copper", "note": "Second- or third-largest producer" },
+      { "name": "Silver & gold", "note": "Top-three silver producer" },
+      { "name": "Chancay port", "note": "COSCO-operated deep-water port opened November 2024" }
+    ]
+  },
+  {
+    "iso3": "GUY",
+    "iso2": "GY",
+    "name": "Guyana",
+    "region": "Latin America",
+    "capital": "Georgetown",
+    "capitalCoords": [6.8, -58.16],
+    "population": 0.83,
+    "areaKm2": 214969,
+    "tags": ["energy-exporter"],
+    "summary": "The world's fastest-growing economy thanks to offshore oil discoveries in the Stabroek block. Its oil wealth has intensified Venezuela's claim over the Essequibo region, which makes up about two-thirds of Guyana's territory.",
+    "strategicInterests": [
+      "Defend territorial integrity against Venezuela's Essequibo claim",
+      "Manage the oil boom and sovereign wealth fund",
+      "Deepen security ties with the US and Caribbean partners"
+    ],
+    "economy": {
+      "gdpUsdBn": 25,
+      "gdpGrowthPct": 43.6,
+      "inflationPct": 2.9,
+      "debtPctGdp": 26,
+      "currency": "Guyanese dollar (GYD)",
+      "sectors": ["Oil", "Gold mining", "Agriculture", "Timber"],
+      "topExports": ["Crude oil", "Gold", "Rice", "Bauxite", "Timber"]
+    },
+    "military": {
+      "spendUsdBn": 0.2,
+      "spendPctGdp": 0.8,
+      "activePersonnel": 3400,
+      "nuclearWarheads": 0,
+      "capabilities": ["Small defence force", "Growing US and UK training support"]
+    },
+    "government": {
+      "system": "Unitary parliamentary republic with executive president",
+      "headOfState": "Irfaan Ali",
+      "headOfGovernment": "Mark Phillips",
+      "notes": "Ali was re-elected in September 2025."
+    },
+    "resources": [
+      { "name": "Offshore oil", "note": "Stabroek block: 11+ billion barrels discovered (ExxonMobil-led)" },
+      { "name": "Gold & bauxite", "note": "Traditional mainstays of the economy" }
+    ]
+  }
+]

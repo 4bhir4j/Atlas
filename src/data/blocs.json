@@ -1,0 +1,130 @@
+[
+  {
+    "id": "NATO",
+    "name": "North Atlantic Treaty Organization",
+    "type": "military",
+    "founded": 1949,
+    "description": "Collective-defence alliance; Article 5 treats an attack on one member as an attack on all. Finland (2023) and Sweden (2024) are the newest members. Leaders agreed in 2025 to a 5% of GDP defence and security spending target by 2035.",
+    "members": ["USA", "CAN", "GBR", "FRA", "DEU", "ITA", "ESP", "POL", "NOR", "SWE", "FIN", "GRC", "HUN", "TUR", "PRT", "NLD", "BEL", "LUX", "DNK", "ISL", "CZE", "SVK", "SVN", "HRV", "ALB", "MNE", "MKD", "BGR", "ROU", "EST", "LVA", "LTU"]
+  },
+  {
+    "id": "EU",
+    "name": "European Union",
+    "type": "political",
+    "founded": 1993,
+    "description": "Political and economic union of 27 states with a single market, customs union and (for 20 members) the euro. Candidates include Ukraine, Moldova, the Western Balkans, Georgia and Turkey.",
+    "members": ["AUT", "BEL", "BGR", "HRV", "CYP", "CZE", "DNK", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "IRL", "ITA", "LVA", "LTU", "LUX", "MLT", "NLD", "POL", "PRT", "ROU", "SVK", "SVN", "ESP", "SWE"]
+  },
+  {
+    "id": "G7",
+    "name": "Group of Seven",
+    "type": "economic",
+    "founded": 1975,
+    "description": "Forum of major advanced democracies coordinating on economics, sanctions and security. The EU participates as a non-enumerated member.",
+    "members": ["USA", "CAN", "GBR", "FRA", "DEU", "ITA", "JPN"]
+  },
+  {
+    "id": "G20",
+    "name": "Group of Twenty",
+    "type": "economic",
+    "founded": 1999,
+    "description": "Premier forum for international economic cooperation, covering roughly 85% of world GDP. The EU and African Union are also members.",
+    "members": ["ARG", "AUS", "BRA", "CAN", "CHN", "FRA", "DEU", "IND", "IDN", "ITA", "JPN", "KOR", "MEX", "RUS", "SAU", "ZAF", "TUR", "GBR", "USA"]
+  },
+  {
+    "id": "BRICS",
+    "name": "BRICS",
+    "type": "economic",
+    "founded": 2009,
+    "description": "Grouping of major emerging economies that expanded in 2024–25. Saudi Arabia was invited but has not formally confirmed membership. Promotes alternatives to Western-led financial institutions.",
+    "members": ["BRA", "RUS", "IND", "CHN", "ZAF", "EGY", "ETH", "IRN", "ARE", "IDN"]
+  },
+  {
+    "id": "SCO",
+    "name": "Shanghai Cooperation Organisation",
+    "type": "political",
+    "founded": 2001,
+    "description": "Eurasian security and political organisation led by China and Russia. Iran joined in 2023 and Belarus in 2024.",
+    "members": ["CHN", "RUS", "IND", "PAK", "KAZ", "KGZ", "TJK", "UZB", "IRN", "BLR"]
+  },
+  {
+    "id": "CSTO",
+    "name": "Collective Security Treaty Organization",
+    "type": "military",
+    "founded": 2002,
+    "description": "Russian-led military alliance of post-Soviet states. Armenia froze its participation in 2024 after the alliance failed to support it against Azerbaijan.",
+    "members": ["RUS", "BLR", "KAZ", "KGZ", "TJK", "ARM"]
+  },
+  {
+    "id": "ASEAN",
+    "name": "Association of Southeast Asian Nations",
+    "type": "political",
+    "founded": 1967,
+    "description": "Regional organisation of Southeast Asian states built on consensus and non-interference. Timor-Leste became the 11th member in October 2025.",
+    "members": ["IDN", "VNM", "PHL", "THA", "MMR", "MYS", "SGP", "BRN", "KHM", "LAO", "TLS"]
+  },
+  {
+    "id": "OPEC+",
+    "name": "OPEC+",
+    "type": "energy",
+    "founded": 2016,
+    "description": "OPEC's 12 members plus allied producers led by Russia, coordinating crude output to manage prices. Saudi Arabia and Russia are the dominant voices.",
+    "members": ["SAU", "IRN", "IRQ", "ARE", "KWT", "VEN", "NGA", "DZA", "LBY", "COG", "GNQ", "GAB", "RUS", "KAZ", "AZE", "MEX", "OMN", "BHR", "BRN", "MYS", "SDN", "SSD"]
+  },
+  {
+    "id": "GCC",
+    "name": "Gulf Cooperation Council",
+    "type": "political",
+    "founded": 1981,
+    "description": "Political and economic union of the Arab Gulf monarchies.",
+    "members": ["SAU", "ARE", "QAT", "KWT", "OMN", "BHR"]
+  },
+  {
+    "id": "QUAD",
+    "name": "Quadrilateral Security Dialogue",
+    "type": "military",
+    "founded": 2007,
+    "description": "Informal strategic forum of Indo-Pacific democracies focused on maritime security, technology and supply chains. Not a treaty alliance.",
+    "members": ["USA", "JPN", "IND", "AUS"]
+  },
+  {
+    "id": "AUKUS",
+    "name": "AUKUS",
+    "type": "military",
+    "founded": 2021,
+    "description": "Trilateral security partnership. Pillar I delivers nuclear-powered submarines to Australia; Pillar II covers advanced technologies such as AI, hypersonics and quantum.",
+    "members": ["AUS", "GBR", "USA"]
+  },
+  {
+    "id": "FVEY",
+    "name": "Five Eyes",
+    "type": "intelligence",
+    "founded": 1946,
+    "description": "Signals-intelligence alliance rooted in the UKUSA Agreement — the most integrated intelligence partnership in the world.",
+    "members": ["USA", "GBR", "CAN", "AUS", "NZL"]
+  },
+  {
+    "id": "MERCOSUR",
+    "name": "Mercosur",
+    "type": "economic",
+    "founded": 1991,
+    "description": "South American customs union. Bolivia became a full member in 2024; Venezuela is suspended. A trade agreement with the EU was concluded in December 2024.",
+    "members": ["ARG", "BRA", "PRY", "URY", "BOL"]
+  },
+  {
+    "id": "USMCA",
+    "name": "USMCA / CUSMA / T-MEC",
+    "type": "economic",
+    "founded": 2020,
+    "description": "North American free-trade agreement that replaced NAFTA. A formal joint review is due in 2026.",
+    "members": ["USA", "MEX", "CAN"]
+  },
+  {
+    "id": "CPTPP",
+    "name": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+    "type": "economic",
+    "founded": 2018,
+    "description": "High-standard Pacific trade pact. The UK joined in December 2024; China and Taiwan have applied.",
+    "members": ["AUS", "BRN", "CAN", "CHL", "JPN", "MYS", "MEX", "NZL", "PER", "SGP", "VNM", "GBR"]
+  }
+]
